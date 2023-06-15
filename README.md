@@ -20,7 +20,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
-|1|Objetivo #1, #4 e #5|Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
+|1|#1, #4 e #5|Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
 
 # A hierarquia dos repositórios
 
