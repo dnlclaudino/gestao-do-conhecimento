@@ -6,7 +6,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |:---:|:---:|:---:|:---|
 |Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
 
-# Necessidades
+## Necessidades
 
 |#|Necessidade|
 |:---:|:---|
@@ -22,7 +22,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |:---:|:---|:---|
 |1|#1, #4 e #5|Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
 
-# A hierarquia dos repositórios
+## A hierarquia dos repositórios
 
 1. O primeiro nível do repositório corresponderá a um tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática;
     - No primeiro nível será criado o arquivo “README.md” contendo um documento markdown de sumário contendo manifesto (o que o repositório contém), uma tabela com as versões com descrições (TAGS) e outra tabela com as relações de partes do do resumo com seus respectivos links ;
@@ -36,7 +36,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 3. O terceiro nível na hierarquia do repositório conterá pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown (*.MD)
 
-# Fluxo de trabalho para elaboração de resumos
+## Fluxo de trabalho para elaboração de resumos
 
 Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter resumos.
 
@@ -57,7 +57,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
       - Obs: Seguir regras de versionamento semântico deste documento para denominação das TAGS
     - O arquivo “README.md” deve ser atualizado;
 
-# Regras para versionamento semântico nos documentos
+## Regras para versionamento semântico nos documentos
 
 1. Usar o seguinte versionamento semântico:
 
@@ -68,7 +68,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 
 * Se após eu fizer um resumo de um manual do TCU sobre gestão de riscos (uma versão MAJOR), eu fizer um outro resumo sobre o mesmo tema (gestão de riscos) de um manual de gestão de riscos do CNJ (outra versão MAJOR acrescentada).
 
-# Regras para nomenclatura de fontes
+## Regras para nomenclatura de fontes
 
 1. Todas as letras em minúscula;
 2. As palavras não devem conter acentos diacríticos (agudo, circunflexo,crase,etc);
@@ -98,7 +98,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
         - manual-TSE-2021-manual-de-gestao-documental
         - manual-TSE-2021-manual-de-digitalizacao-de-documentos
 
-# Regras para nomenclatura de pastas e documentos de resumo
+## Regras para nomenclatura de pastas e documentos de resumo
 
 1. Todas as letras em minúscula;
 2. As palavras não devem conter acentos diacríticos (agudo, circunflexo, cedilha, crase,etc);
@@ -115,7 +115,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
          - capitulo-02-conhecendo-o-gerenciamento-de-Servicos.MD
       - Caso o objeto do resumo seja dividido em <ESPECIFICAR A FORMA DE DIVISÃO>
 
-# Regras para nomenclatura de imagens
+## Regras para nomenclatura de imagens
 
 1. Todas as letras em minúscula;
 2. As palavras não devem conter acentos diacríticos (agudo, circunflexo,crase,etc);
@@ -130,7 +130,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
       - figura-02-classificacao-das-tipologias-de-servicos.PNG
     - Caso o objeto do resumo seja dividido em < ESPECIFICAR A FORMA DE DIVISÃO >
 
-# Regras para nomenclatura de tabelas e quadros
+## Regras para nomenclatura de tabelas e quadros
 
 1. Para nomenclatura de TABELAS e QUADROS
     - Caso o objeto do resumo seja dividido em CAPÍTULOS
@@ -141,6 +141,15 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Exemplo.:
       - Tabela - Classificação das tipologias de serviços
 
-# Regras para nomenclatura de commits no Github
+## Regras para nomenclatura de commits no Github
+
+## Como incluir um novo tema no repositório
+
+Por tema entende-se tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental). Antes de iniciar um novo tema, VERIFIQUE se já existe um repositório para o tema. (No Github)
+
+### Passo a passo 
+
+1. Siga as regras estabelecidas nessa política para [A hierarquia dos repositórios]() e [Fluxo de trabalho para elaboração de resumos]()
+2. Siga as regas estabelecidas para [Regras para nomenclatura de fontes]() e [Regras para nomenclatura de fontes]()
 
 Em construção...
