@@ -75,7 +75,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 3. Palavras separadas por hífen “-”;
 4. Para nomenclatura de FONTES
     - Elementos:
-      - Tipo da fonte: livro, artigo, dissertação, monografia, site, manual,plano, norma [lei, decreto,portaria, resolução, regimento-interno, regulamento] , notas-de-aula, resumo-de-terceiros, curso, workshop, vídeo-aula, podcast, slide, etc (sem acentos diacríticos);
+      - Tipo da fonte: livro, livro-treinamento,apostila-treinamento,slide-treinamento,livro-curso,apostila-curso,slide-curso, artigo, dissertação, monografia, site, manual,plano, norma [lei, decreto,portaria, resolução, regimento-interno, regulamento], notas-de-aula, resumo-de-terceiros, curso, treinamento, workshop, vídeo-aula, podcast, slide, etc (sem acentos diacríticos);
       - Sobrenome dos autores (pessoa física, ou pessoa jurídica quando institucional) em MAIÚSCULA separados por hífen “-”
       - Ano com quatro dígitos;
       - Uma descrição com o título da fonte (separadas por hífen e sem sinais diacríticos). Encurtar, se necessário.
