@@ -143,6 +143,82 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 
 ## Regras para nomenclatura de commits no Github
 
+### Orientações gerais
+
+- Os **commits** devem ter entre 50 a 60 caracteres
+- A mensagem de commit deve começar com um **prefixo** seguindo de dois pontos;
+- O prefixo deve expressar a **razão (o porquê) de realizar o commit**
+- Commits com mais de uma razão diferente deve ser dividido em tantos commits quanta razões diferentes existirem
+- Commits devem deixar claro a parte que está sendo construída, revisada ou removida do produto final
+
+### Razões para os commits (com PREFIXOS)
+
+1. Primeiro commit de uma tema (repositório):
+  - **Orientações**:
+    - Orientação 1
+    - Orientação 2
+  - **Prefixo**: "CRIAÇÃO REPOSITÓRIO: "
+  - **Mensagem de Commit**: Versão Inicial (V0.0.1)
+  - **Descrição da Mensagem**:
+    - Linha 1 (...)
+    - Linha 2 (...)
+2. Primeiro commit de uma **FONTE**:
+  - **Orientações**:
+    - Orientação 1
+    - Orientação 2  
+  - **Prefixo**: "CRIAÇÃO FONTE: "
+  - **Mensagem de Commit**: Versão Inicial
+  - **Descrição da Mensagem**:
+    - Linha 1 (...)
+    - Linha 2 (...)
+3. Para conclusão de resumos de itens do documento:
+  - **Prefixo**: "RESUMO:"
+  - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
+  - **Descrição da Mensagem**:
+    - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
+    - 3/11 itens concluídos;
+    - Atualizar progresso para ~18,2%;
+4. Para conclusão de resumos de itens do documentos e revisão de itens anteriores:
+  - **Prefixo**: "RES-REV:"
+  - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
+  - **Descrição da Mensagem**:
+    - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
+    - 3/11 itens concluídos;
+    - Atualizar progresso para ~18,2%;
+5. Para revisão do documento apenas:
+  - **Prefixo**: "REVISÃO:"
+  - **Mensagem de Commit**:
+  - **Descrição da Mensagem**:
+    - Linha 1 (...)
+    - Linha 2 (...)
+6. Para ACRESCENTAR TEXTO de outras fontes para o documento apenas
+  - **Prefixo**: "ACRÉSCIMO:"
+  - **Mensagem de Commit**: Acrescentar conteúdo na unid. **01** / cap. **01** / item **2.1**
+  - **Descrição da Mensagem**:
+    - Foi(ram) acrescentado(s) conteúdo(s) aos item(ns) da unid. 01 / cap. 01
+      - Item 2: O Sistema De Comunicação;
+      - Item 2.2: Sinais analógicos e sinais digitais;
+7. Para inclusão de figuras apenas
+  - **Prefixo**: "RESUMO:"
+  - **Mensagem de Commit**:
+  - **Descrição da Mensagem**:
+    - Linha 1 (...)
+    - Linha 2 (...)
+8. Para inclusão de outros artefatos apenas
+  - **Planilhas**
+    - **Prefixo**: "RESUMO:"
+    - **Mensagem de Commit**:
+    - **Descrição da Mensagem**:
+      - Linha 1 (...)
+      - Linha 2 (...) 
+  - Arquivos de **mapas mentais**
+    - **Prefixo**: "RESUMO:"
+    - **Mensagem de Commit**:
+    - **Descrição da Mensagem**:
+      - Linha 1 (...)
+      - Linha 2 (...) 
+  - Criação de **pastas**
+
 ## Como incluir um novo tema no repositório
 
 Por tema entende-se tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental). Antes de iniciar um novo tema, VERIFIQUE se já existe um repositório para o tema. (No Github)
