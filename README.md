@@ -167,58 +167,64 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Orientação 1
     - Orientação 2  
   - **Prefixo**: "CRIAÇÃO FONTE: "
-  - **Mensagem de Commit**: Versão Inicial
+  - **Mensagem de Commit**: Versão Inicial (V0.0.1)
   - **Descrição da Mensagem**:
     - Linha 1 (...)
     - Linha 2 (...)
-3. Para conclusão de resumos de itens do documento:
+3. Para conclusão de **RESUMO** de itens do documento:
   - **Prefixo**: "RESUMO:"
   - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
     - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
     - 3/11 itens concluídos;
     - Atualizar progresso para ~18,2%;
-4. Para conclusão de resumos de itens do documentos e revisão de itens anteriores:
+4. Para conclusão de **RESUMO(S)** de itens do documentos e **REVISÃO** de itens anteriores:
   - **Prefixo**: "RES-REV:"
   - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
     - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
     - 3/11 itens concluídos;
     - Atualizar progresso para ~18,2%;
-5. Para revisão do documento apenas:
+5. Para **REVISÃO** do documento apenas:
   - Orientação: Revisões podem ser utilizadas tanto para corrigir erros ortográficos, morfológicos e semênticos no texto, como também utilizadas para corrigir erros que causam má formatação do documento ou até mesmo erros que impeção a sua correta visualização.
   - **Prefixo**: "REVISÃO:"
   - **Mensagem de Commit**:
   - **Descrição da Mensagem**:
     - Linha 1 (...)
     - Linha 2 (...)
-6. Para ACRESCENTAR TEXTO de outras fontes para o documento apenas
-  - **Prefixo**: "ACRÉSCIMO:"
+6. Para **ACRESCENTAR TEXTO** de outras fontes para o documento apenas
+  - **Prefixo**: "ACRESCIMO:"
   - **Mensagem de Commit**: Acrescentar conteúdo na unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
     - Foi(ram) acrescentado(s) conteúdo(s) aos item(ns) da unid. 01 / cap. 01
       - Item 2: O Sistema De Comunicação;
       - Item 2.2: Sinais analógicos e sinais digitais;
 7. Para inclusão de figuras apenas
-  - **Prefixo**: "RESUMO:"
-  - **Mensagem de Commit**:
+  - **Prefixo**: "FIGURA:"
+  - **Mensagem de Commit**: Criar nova figura na unid.01/cap.01/item 2.1 
   - **Descrição da Mensagem**:
-    - Linha 1 (...)
-    - Linha 2 (...)
+    - Nome da figura: "figura-unidade-01-capitulo-01-sinais-analogicos-sinais-digitais.png"
+    - Indique onde a figura será inicialmente utilizada (p.ex. na unid. 01 / cap. 01 / item 2.1 )
+    - Descrição da figura e de sua relevância para o documento
 8. Para inclusão de outros artefatos apenas
   - **Planilhas**
-    - **Prefixo**: "RESUMO:"
-    - **Mensagem de Commit**:
+    - **Prefixo**: "PLANILHA:" 
+    - **Mensagem de Commit**: Criar nova planilha "NOME-DA-PASTA"
     - **Descrição da Mensagem**:
-      - Linha 1 (...)
-      - Linha 2 (...) 
+      - Descrição do conteúdo da planilha;
+      - Descrição de cada parte/aba da planilha e sua utilizade (...)
   - Arquivos de **mapas mentais**
-    - **Prefixo**: "RESUMO:"
-    - **Mensagem de Commit**:
+    - **Prefixo**: "MAPA-MENTAL:"
+    - **Mensagem de Commit**: Criar novo mapa mental "NOME-DA-PASTA"
     - **Descrição da Mensagem**:
       - Linha 1 (...)
       - Linha 2 (...) 
   - Criação de **pastas**
+    - **Prefixo**: "NOVA-PASTA:"
+    - **Mensagem de Commit**: Criar nova pasta "NOME-DA-PASTA"
+    - **Descrição da Mensagem**:
+      - Linha 1 (...)
+      - Linha 2 (...) 
 9. Para revisão APENAS da **FORMATAÇÃO** no documento:
   - Orientação: Formatar um documento significa estabelecer o alinhamento, o espaçamento, as margens, as fontes, a cor, negrito, itálico, sublinhado, alteração de caixa baixa para caixa alta, divisão em dois ou mais parágrafos s a partir de um parágrafo já existente, aglutinação em um parágrafo a partir de dois ou mais parágrafos já existentes, criação de lista ordenada/não ordenada de itens já existentes, entre outras ações, de forma a obter um documento de acordo com as preferências do utilizador.
   - **Prefixo**: "FORMATAÇÃO:"
