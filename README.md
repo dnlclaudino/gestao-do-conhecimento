@@ -141,7 +141,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Exemplo.:
       - Tabela - Classificação das tipologias de serviços
 
-## Regras para nomenclatura de commits no Github
+## Regras para commits no Github
 
 ### Orientações gerais
 
