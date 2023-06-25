@@ -218,6 +218,14 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
       - Linha 1 (...)
       - Linha 2 (...) 
   - Criação de **pastas**
+9. Para revisão APENAS DA **FORMATAÇÃO** DO DOCUMENTO
+  - Orientação: Formatar um documento significa estabelecer o alinhamento, o espaçamento, as margens, as fontes, a cor, negrito, itálico, sublinhado, alteração de caixa baixa para caixa alta, divisão em dois ou mais parágrafos s a partir de um parágrafo já existente, aglutinação em um parágrafo a partir de dois ou mais parágrafos já existentes, criação de lista ordenada/não ordenada de itens já existentes, entre outras ações, de forma a obter um documento de acordo com as preferências do utilizador.
+  - **Prefixo**: "FORMATAÇÃO:"
+  - **Mensagem de Commit**: Realizada formatação de conteúdo na unid. **01** / cap. **01** / item **2.1**
+  - **Descrição da Mensagem**:
+    - Realizada **formatação de conteúdo** na unid. **01** / cap. **01**
+      - Item X: NOME-DO-ITEM
+      - Item X: NOME-DO-ITEM
 
 ## Como incluir um novo tema no repositório
 
