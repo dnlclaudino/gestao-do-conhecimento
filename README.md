@@ -173,22 +173,22 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Linha 2 (...)
 3. Para conclusão de **RESUMO** de itens do documento:
   - **Prefixo**: "RESUMO:"
-  - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
+  - **Mensagem de Commit**: Concluir resumo unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
     - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
     - 3/11 itens concluídos;
     - Atualizar progresso para ~18,2%;
 4. Para conclusão de **RESUMO(S)** de itens do documentos e **REVISÃO** de itens anteriores:
   - **Prefixo**: "RES-REV:"
-  - **Mensagem de Commit**: Concluído resumo unid. **01** / cap. **01** / item **2.1**
+  - **Mensagem de Commit**: Concluir resumo unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
     - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
     - 3/11 itens concluídos;
     - Atualizar progresso para ~18,2%;
 5. Para **REVISÃO** do documento apenas:
-  - Orientação: Revisões podem ser utilizadas tanto para corrigir erros ortográficos, morfológicos e semênticos no texto, como também utilizadas para corrigir erros que causam má formatação do documento ou até mesmo erros que impeção a sua correta visualização.
-  - **Prefixo**: "REVISÃO:"
-  - **Mensagem de Commit**:
+  - **Orientação**: Revisões podem ser utilizadas tanto para corrigir erros ortográficos, morfológicos e semênticos no texto, como também utilizadas para corrigir erros que causam má formatação do documento ou até mesmo erros que impeção a sua correta visualização.
+  - **Prefixo**: "REVISAO:"
+  - **Mensagem de Commit**: Concluir revisão unid. **01** / cap. **01** / item **2.1** ou itens **2.2, 2.3, 3.1, 4.5 e 6** do livro/apostila/lei/resolução/etc
   - **Descrição da Mensagem**:
     - Linha 1 (...)
     - Linha 2 (...)
