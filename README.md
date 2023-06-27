@@ -226,7 +226,17 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
       - Linha 1 (...)
       - Linha 2 (...) 
 9. Para revisão APENAS da **FORMATAÇÃO** no documento:
-  - Orientação: Formatar um documento significa estabelecer o alinhamento, o espaçamento, as margens, as fontes, a cor, negrito, itálico, sublinhado, alteração de caixa baixa para caixa alta, divisão em dois ou mais parágrafos s a partir de um parágrafo já existente, aglutinação em um parágrafo a partir de dois ou mais parágrafos já existentes, criação de lista ordenada/não ordenada de itens já existentes, entre outras ações, de forma a obter um documento de acordo com as preferências do utilizador.
+  - Orientação: Formatar um documento significa:
+    - Estabelecer/Alterar o alinhamento;
+    - Inclusão/Exclusão de hiperlinks no texto;
+    - Estabelecer/Alterar espaçamento;
+    - Estabelecer/Alterar as margens do texto;
+    - Estabelecer/Alterar as fontes, negrito, itálico ou cores;
+    - Estabelecer/Alterar alteração de caixa baixa para caixa alta;
+    - Dividir em dois ou mais parágrafos a partir de um parágrafo já existente;
+    - Aglutinar em um parágrafo a partir de dois ou mais parágrafos já existentes;
+    - Criar/Alterar lista ordenada/não ordenada de itens já existentes
+    - Entre outras ações, de forma a obter um documento de acordo com as preferências do utilizador.
   - **Prefixo**: "FORMATAÇÃO:"
   - **Mensagem de Commit**: Realizada formatação de conteúdo na unid. **01** / cap. **01** / item **2.1**
   - **Descrição da Mensagem**:
