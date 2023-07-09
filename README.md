@@ -10,17 +10,26 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 |#|Necessidade|
 |:---:|:---|
-|1|Tornar o conhecimento explicitamente registrado;|
-|2|Demonstrar habilidades;|
-|3|Demonstrar atitudes;|
-|4|Facilitar a localização dos resumos;|
-|5|Rapidamente recuperar conhecimentos e habilidades que foram registradas;|
+|1|Tornar meu conhecimento explicitamente registrado|
+|2|Otimizar a recuperação do meu conhecimento|
+|3|Organizar meus conhecimentos pessoais e profissionais mais relevantes|
+|4|Demonstrar minhas habilidades de gestão do conhecimento|
+|5|Demonstrar atitudes que geram valores organizacionais, profissionais e sociais|
+|6|Identificar e explicitar as competências organizacionais, individuais e gerenciais adquiridas com minha gestão do conhecimento|
+|7|Contribuir no desenvolvimento de pessoas e organizações|
 
 # Objetivos
 
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
-|1|#1, #4 e #5|Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
+|1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
+|2|#6|Desenvolver texto apresenta a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
+
+Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
+
+## Gestão de competências
+
+Rascunho...
 
 ## A hierarquia dos repositórios
 
