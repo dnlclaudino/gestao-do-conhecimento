@@ -35,19 +35,41 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo.
 
-#|Área do Conhecimento<br>Relacionados com<br>CIÊNCIA DA COMPUTAÇÃO|Descrição|Link|
-|:---:|:---|:---|:---|
-|1|Arquitetura de Computadores|-|-|
-|2|Banco de Dados|-|-|
-|3|Ciencia de Dados|-|-|
-|4|Gestão de Serviços de TI|-|-|
-|5|Governança de TI|-|-|
-|6|Linguagens de marcação, estilo e programação|-|-|
-|7|Virtualização|-|-|
-|8|Redes de Computadores|-|-|
-|9|Segurança da Informação|-|-|
-|10|Sistemas Operacionais|-|-|
-|11|Testes de software|-|-|
+|#|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---:|:---|:---|:---|:---|:---|
+|1|CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
+|2|CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
+|3|CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
+|4|CIÊNCIAS FORMAIS|Ciência da Computação|Engenharia de Software|-|-|
+|5|CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
+|6|CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
+|7|CIÊNCIAS FORMAIS|Ciência da Computação|Redes de Computadores|-|-|
+|8|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
+|9|CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
+|10|CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
+|11|CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
+|12|CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
+|13|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
+|14|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
+|15|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
+|16|CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
+
+|#|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---:|:---|:---|:---|:---|:---|
+|1|CIÊNCIAS SOCIAIS|Administração|Gestão de Projetos|-|-|
+|2|CIÊNCIAS SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
+|3|CIÊNCIAS SOCIAIS|Administração|Gestão de Serviços de TI|-|-|
+|4|CIÊNCIAS SOCIAIS|Administração|Governança de TI|-|-|
+|5|CIÊNCIAS SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
+|6|CIÊNCIAS SOCIAIS|Economia|Introdução à Economia|-|-|
+|7|CIÊNCIAS SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
+|8|CIÊNCIAS SOCIAIS|História|História Geral|-|-|
+|9|CIÊNCIAS SOCIAIS|História|História do Brasil|-|-|
+|10|CIÊNCIAS SOCIAIS|Psicologia|História da Psicologia|-|-|
+|11|CIÊNCIAS SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
+|12|CIÊNCIAS SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
+
+Continuar... https://conceitosdomundo.pt/ciencia/
 
 É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuoa inda passará por um trabalho de aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo:
 
