@@ -25,11 +25,11 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
 |2|#6|Desenvolver texto apresenta a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
 
-Registrar o conhecimento de forma hierarquizada e padronizada a partir de diretrizes claras;|
-
 ## Gestão de competências
 
-Rascunho...
+Toda a minha gestão do conhecimento comunica-se com minha gestão de competências. Minha gestão de competências é orientada por linhas gerais direcionadoras (= política) representadas por declarações escritas a respeito das minhas intenções em relação aos meus conhecimentos, habilidades e atitudes, proporcionando linhas mestras para se atingir os meus objetivos pessoais, profisionais e da organizacção em que atuo, orientando decisões e a formulação de objetivos e elaboração de outras orientações relacionadas à própria gestão do conhecimento e à própria gestão de competências.
+
+Para mais detalhes acesse minha política de gestão de competências no repositório "[Gestão de Competências](https://github.com/dnlclaudino/gestao-de-competencias/tree/master)".
 
 ## A hierarquia dos repositórios
 
