@@ -13,7 +13,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |1|Tornar meu conhecimento explicitamente registrado|
 |2|Otimizar a recuperação do meu conhecimento|
 |3|Organizar meus conhecimentos pessoais e profissionais mais relevantes|
-|4|Demonstrar minhas habilidades de gestão do conhecimento|
+|4|Demonstrar minhas habilidades de gestão do conhecimento e gestão de minhas competências|
 |5|Demonstrar atitudes que geram valores organizacionais, profissionais e sociais|
 |6|Identificar e explicitar as competências organizacionais, individuais e gerenciais adquiridas com minha gestão do conhecimento|
 |7|Contribuir no desenvolvimento de pessoas e organizações|
