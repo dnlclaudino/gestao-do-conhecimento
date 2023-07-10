@@ -31,6 +31,72 @@ Toda a minha gestão do conhecimento comunica-se com minha gestão de competênc
 
 Para mais detalhes acesse minha política de gestão de competências no repositório "[Gestão de Competências](https://github.com/dnlclaudino/gestao-de-competencias/tree/master)".
 
+## Áreas para Minha Gestão do Conhecimento
+
+Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo.
+
+#|Área do Conhecimento<br>Relacionados com<br>CIÊNCIA DA COMPUTAÇÃO|Descrição|Link|
+|:---:|:---|:---|:---|
+|1|Arquitetura de Computadores|-|-|
+|2|Banco de Dados|-|-|
+|3|Ciencia de Dados|-|-|
+|4|Gestão de Serviços de TI|-|-|
+|5|Governança de TI|-|-|
+|6|Linguagens de marcação, estilo e programação|-|-|
+|7|Virtualização|-|-|
+|8|Redes de Computadores|-|-|
+|9|Segurança da Informação|-|-|
+|10|Sistemas Operacionais|-|-|
+|11|Testes de software|-|-|
+
+É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuoa inda passará por um trabalho de aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo:
+
+|#|Área do Conhecimento|Descrição|Link|
+|:---:|:---|:---|:---|
+|1|ADMINISTRACAO|||
+||ANATOMIA|||
+||ANTROPOLOGIA|||
+||AUDITORIA|||
+||BIOLOGIA|||
+||CALIGRAFIA|||
+||CIENCIA DA COMPUTACAO|||
+||CIENCIA POLITICA|||
+||CONCURSO|||
+||CONTABILIDADE|||
+||DIREITO|||
+||ECONOMIA|||
+||ENGENHARIA|||
+||ESTATISTICA|||
+||FILOSOFIA|||
+||FISICA|||
+||GEOGRAFIA
+||GESTÃO DE DISPENSAS DE LICITAÇÕES|||
+||GESTÃO DOCUMENTAL|||
+||GESTÃO DE CONTRATOS|||
+||GESTÃO DE INEXIGIBILIDADES|||
+||GESTÃO DE LICITAÇÕES PÚBLICAS|||
+||GESTÃO DE RISCOS|||
+||GESTÃO ORÇAMENTÁRIA|||
+||GESTAO DE PROCESSOS DE TRABALHO|||
+||GESTÃO DE PROJETOS|||
+||GESTÃO DE TI|||
+||GOVERNANÇA|||
+||HISTORIA|||
+||LINGUISTICA|||
+||LITERATURA|||
+||LOGISTICA|||
+||MATEMATICA|||
+||MEDICINA|||
+||MEIO-AMBIENTE|||
+||METODOLOGIA CIENTIFICA E DA PESQUISA|||
+||MITOLOGIA|||
+||NORMAS NACIONAIS E INTERNACIONAIS|||
+||NORMAS JURIDICAS|||
+||PSICOLOGIA|||
+||QUIMICA|||
+||REVISTAS|||
+||SOCIOLOGIA|||
+
 ## A hierarquia dos repositórios
 
 1. O primeiro nível do repositório corresponderá a um tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática;
