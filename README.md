@@ -35,39 +35,41 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo.
 
-|#|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
-|:---:|:---|:---|:---|:---|:---|
-|1|CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
-|2|CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
-|3|CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
-|4|CIÊNCIAS FORMAIS|Ciência da Computação|Engenharia de Software|-|-|
-|5|CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
-|6|CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
-|7|CIÊNCIAS FORMAIS|Ciência da Computação|Redes de Computadores|-|-|
-|8|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
-|9|CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
-|10|CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
-|11|CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
-|12|CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
-|13|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
-|14|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
-|15|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
-|16|CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
+|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Algoritmos|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Engenharia de Software|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Gestão de Serviços de TI|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Governança de TI|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Redes de Computadores|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 
-|#|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
-|:---:|:---|:---|:---|:---|:---|
-|1|CIÊNCIAS SOCIAIS|Administração|Gestão de Projetos|-|-|
-|2|CIÊNCIAS SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
-|3|CIÊNCIAS SOCIAIS|Administração|Gestão de Serviços de TI|-|-|
-|4|CIÊNCIAS SOCIAIS|Administração|Governança de TI|-|-|
-|5|CIÊNCIAS SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
-|6|CIÊNCIAS SOCIAIS|Economia|Introdução à Economia|-|-|
-|7|CIÊNCIAS SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
-|8|CIÊNCIAS SOCIAIS|História|História Geral|-|-|
-|9|CIÊNCIAS SOCIAIS|História|História do Brasil|-|-|
-|10|CIÊNCIAS SOCIAIS|Psicologia|História da Psicologia|-|-|
-|11|CIÊNCIAS SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
-|12|CIÊNCIAS SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
+|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS SOCIAIS|Administração|Gestão de Projetos|-|-|
+|CIÊNCIAS SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
+|CIÊNCIAS SOCIAIS|Administração|Governança de TI|-|-|
+|CIÊNCIAS SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
+|CIÊNCIAS SOCIAIS|Economia|Introdução à Economia|-|-|
+|CIÊNCIAS SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
+|CIÊNCIAS SOCIAIS|História|História Geral|-|-|
+|CIÊNCIAS SOCIAIS|História|História do Brasil|-|-|
+|CIÊNCIAS SOCIAIS|Psicologia|História da Psicologia|-|-|
+|CIÊNCIAS SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
+|CIÊNCIAS SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
 
 Continuar... https://conceitosdomundo.pt/ciencia/
 
