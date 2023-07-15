@@ -2,7 +2,7 @@
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
-|Contribuição|Data|Versão|Observações #124; Notas |
+|Contribuição|Data|Versão|Observações &#47; Notas |
 |:---:|:---:|:---:|:---|
 |Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
 
@@ -35,7 +35,9 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo.
 
-|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+### Ciências Formais
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Algoritmos|-|-|
@@ -57,19 +59,48 @@ Todo os meus conhecimentos que foram considerados relevantes para minha gestão 
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 
-|Ramo do Conhecimento|Subárea do Conhecimento|Área do Conhecimento|Descrição|Link|
+### Concursos Públicos e Certificações
+
+|Ano|Concurso|Cargo|Tema|Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|:---|:---|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Português|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Constitucional|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Eleitoral|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Administrativo|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Normas Aplicáveis aos Servidores Públicos Federais|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Inglês Técnico|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Fundamentos da Computação|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Engenharia de Software|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Gerência de Projetos de Software|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Redes de Computadores|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Banco de Dados|-|-|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Linguagens de Programação / Formatação|-|-|
+
+### Certificações
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-|CIÊNCIAS SOCIAIS|Administração|Gestão de Projetos|-|-|
-|CIÊNCIAS SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
-|CIÊNCIAS SOCIAIS|Administração|Governança de TI|-|-|
-|CIÊNCIAS SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
-|CIÊNCIAS SOCIAIS|Economia|Introdução à Economia|-|-|
-|CIÊNCIAS SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
-|CIÊNCIAS SOCIAIS|História|História Geral|-|-|
-|CIÊNCIAS SOCIAIS|História|História do Brasil|-|-|
-|CIÊNCIAS SOCIAIS|Psicologia|História da Psicologia|-|-|
-|CIÊNCIAS SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
-|CIÊNCIAS SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
+|CIÊNCIAS NATURAIS|Biologia|Ensino Médio|-|-|
+|CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
+|CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Portugues|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
 
 Continuar... https://conceitosdomundo.pt/ciencia/
 
