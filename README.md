@@ -123,14 +123,16 @@ Continuar... https://conceitosdomundo.pt/ciencia/
 
 ## Ícones Utilizados
 
+https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-definicao.png
+
 |**Ícone**|**Descrição**|
 |:---:|:---|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/icone-atencao.png" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/definicao.png" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/icone-nao-cometa-erros.png" heigh="80" width="80"><br>**Não cometa erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/icone-duvidas.png" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/icone-verifique.png" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/00ce8dfcae570fb7b2ae70abed7e3f5c52001308/figuras/icone-atencaolembre-se.png" heigh="80" width="80"><br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-definicao.png" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-nao-cometa-erros.png" heigh="80" width="80"><br>**Não cometa erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-duvidas.png" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-verifique.png" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-lembre-se.png" heigh="80" width="80"><br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
 
 ## Recursos Adicionais
 
