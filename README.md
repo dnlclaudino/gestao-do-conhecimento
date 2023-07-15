@@ -18,7 +18,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |6|Identificar e explicitar as competências organizacionais, individuais e gerenciais adquiridas com minha gestão do conhecimento|
 |7|Contribuir no desenvolvimento de pessoas e organizações|
 
-# Objetivos
+## Objetivos
 
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
@@ -121,7 +121,29 @@ Continuar... https://conceitosdomundo.pt/ciencia/
 ||REVISTAS|||
 ||SOCIOLOGIA|||
 
-## A hierarquia dos repositórios
+## Ícones Utilizados
+
+|**Ícone**|**Descrição**|
+|:---:|:---|
+|<br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
+|<br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
+|<br>**Não cometa erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
+|<br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
+|<br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
+|<br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
+
+## Recursos Adicionais
+
+São recursos adicionais utilizados nos resumos
+
+|**Recurso**|**Descrição**|
+|:---:|:---|
+|<br>**Word SmartArt**||
+|<br>**Power Point**||
+|<br>**Mesa Digitalizadora**<br>**One by Wacom**||
+|<br>****||
+
+## A Hierarquia dos Repositórios
 
 1. O primeiro nível do repositório corresponderá a um tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática;
     - No primeiro nível será criado o arquivo “README.md” contendo um documento markdown de sumário contendo manifesto (o que o repositório contém), uma tabela com as versões com descrições (TAGS) e outra tabela com as relações de partes do do resumo com seus respectivos links ;
