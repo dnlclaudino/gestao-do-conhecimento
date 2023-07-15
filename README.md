@@ -33,7 +33,7 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 ## Áreas para Minha Gestão do Conhecimento
 
-Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo.
+Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
 
 ### Ciências Formais
 
@@ -52,12 +52,43 @@ Todo os meus conhecimentos que foram considerados relevantes para minha gestão 
 |CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito: Normas Relacionadas com Computação|Lei geral de Proteção de Dados|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
+
+### Certificações
+
+|Entidade|Certificação|Período de Realização|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|AXELOS|ITIL4|2023|-|-|
+|-|COBIT4|2023|-|-|
+|-|LPI|2023|-|-|
+|Microsoft|MSCP|2023|-|-|
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Portugues|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
 
 ### Concursos Públicos e Certificações
 
@@ -75,36 +106,6 @@ Todo os meus conhecimentos que foram considerados relevantes para minha gestão 
 |2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Redes de Computadores|-|-|
 |2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Banco de Dados|-|-|
 |2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Linguagens de Programação / Formatação|-|-|
-
-### Certificações
-
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS NATURAIS|Biologia|Ensino Médio|-|-|
-|CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
-|CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
-
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Portugues|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
-
-Continuar... https://conceitosdomundo.pt/ciencia/
-
-É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuoa inda passará por um trabalho de aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo:
 
 |#|Área do Conhecimento|Descrição|Link|
 |:---:|:---|:---|:---|
@@ -153,8 +154,6 @@ Continuar... https://conceitosdomundo.pt/ciencia/
 ||SOCIOLOGIA|||
 
 ## Ícones Utilizados
-
-https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-definicao.png
 
 |**Ícone**|**Descrição**|
 |:---:|:---|
