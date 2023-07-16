@@ -105,7 +105,6 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 |CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito: Normas Relacionadas com Computação|Lei geral de Proteção de Dados|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
@@ -113,7 +112,7 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Trigonometria|-|-|
 
-**Obs**: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração.
+**Obs**: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração. Normas relacionadas com a Ciência da Computação estarão na seção CIÊNCIAS HUMANAS E SOCIAIS.
 
 ### Certificações
 
@@ -159,6 +158,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas com Computação<br>LGPDLei geral de Proteção de Dados|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
