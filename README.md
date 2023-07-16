@@ -28,7 +28,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ## Trilha de Aprendizagem
 
-### Quando a Fonte é Escrita
+### Quando a Fonte é ESCRITA
 
 ```mermaid
 graph LR;
@@ -39,7 +39,7 @@ graph LR;
     E-->A
 ```
 
-### Quando a Fonte NÃO é Escrita
+### Quando a Fonte NÃO É ESCRITA
 
 ```mermaid
 graph LR;
