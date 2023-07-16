@@ -59,7 +59,16 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
 
-A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023]. 
+A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023].
+
+```mermaid
+graph LR;
+A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
+  A-->CN[Ciências<br>Naturais];
+  A-->CHS[Ciências<br>Humanas e<br>Sociais]
+  A-->CERT[Certificações];
+  A-->CP[Concursos<br>Públicos];
+```
 
 Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
 
@@ -69,12 +78,7 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 
 ```mermaid
 graph LR;
-A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
-  A-->C[Ciências<br>Naturais];
-  A-->D[Ciências<br>Humanas e<br>Sociais]
-  A-->E[Certificações];
-  A-->F[Concursos<br>Públicos];
-  CF-->CC[Ciência da<br>Computação];
+  CF[Ciências<br>Formais]-->CC[Ciência da<br>Computação];
         CC-->AC[Arquitetura de<br>Computadores];
         CC-->ALG[Algoritmos];
         CC-->BD[Banco de<br>Dados];
