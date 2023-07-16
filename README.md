@@ -170,9 +170,9 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 
 ```mermaid
 graph LR;
-  CN[Ciências<br>Naturais]-->CN[Física];
+  CN[Ciências<br>Naturais]-->F[Física];
         CN-->Q[Química];
-        CN-->BIO[Biologia];
+        CN-->B[Biologia];
 ```
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
