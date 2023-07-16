@@ -136,6 +136,7 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
 
+||||||
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
 |CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
@@ -160,7 +161,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas com Computação<br>LGPDLei geral de Proteção de Dados|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas<br>com Computação<br>LGPD - Lei geral de<br> Proteção de Dados|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
