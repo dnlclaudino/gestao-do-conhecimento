@@ -59,7 +59,13 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
 
-A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023]. Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
+A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023]. 
+
+Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
+
+### Ciências Formais
+
+Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
 
 ```mermaid
 graph LR;
@@ -83,15 +89,10 @@ A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
   CF-->MAT[Matemática];
        MAT-->CALC[Cálculo];
        MAT-->GA[Geometria Analítica];
+       MAT-->RL[Raciocínio Lógico<br>e Matemático];
+       MAT-->DO[Dentre Outros...];
   CF-->ESTAT[Estatística];
 ```
-
-    C[Ciências<br>Formais]-->T[];
-    C[Ciências<br>Formais]-->U[];
-
-### Ciências Formais
-
-Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
@@ -107,11 +108,12 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 |CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Fundamental|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Ensino Médio|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Reciocínio Lógico<br>e Matemático|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Trigonometria|-|-|
 
 **Obs**: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração. Normas relacionadas com a Ciência da Computação estarão na seção CIÊNCIAS HUMANAS E SOCIAIS.
