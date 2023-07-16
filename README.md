@@ -247,12 +247,12 @@ São recursos adicionais utilizados nos resumos
 
 |**Recurso**|**Descrição**|
 |:---:|:---|
-|<br>**Power Point**|Software de apresentação da Microsoft|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
 |<br>**MARP.app**|Outra ferramenta de elaboração de slides que permite versionamento e a separação entre a camada de conteúdo e a camada de apresentação|
-|<br>**Mesa Digitalizadora**<br>**One by Wacom**||
+|<br>**Power Point**|Apresentações elaboradas com o software **Power Point** da Microsoft|
+|<br>**Mesa Digitalizadora**<br>**One by Wacom**|Desenhos e anotações em formato PNG construídas à mão livre, feitas com a mesa digitalizadora da Wacom.|
 
 
 ## A Hierarquia dos Repositórios
