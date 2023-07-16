@@ -6,6 +6,10 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |:---:|:---:|:---:|:---|
 |Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
 
+## Curricum Vitae
+
+[Curriculum Vitae - Daniel Claudino](https://github.com/dnlclaudino/curriculum-vitae)
+
 ## Necessidades
 
 |#|Necessidade|
@@ -105,12 +109,12 @@ graph LR;
 |CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Engenharia de Software|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Engenharia de Software](https://github.com/dnlclaudino/bookdown-resumo-livro-engenharia-de-software-sommervile-2007)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Redes de Computadores|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Segurança da Informação|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Sistemas Operacionais|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Redes de Computadores](https://github.com/dnlclaudino/redes-de-computadores-e-comunicacao-de-dados)|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Segurança da Informação](https://github.com/dnlclaudino/seguranca-em-tecnologia-da-informacao)|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Sistemas Operacionais](https://github.com/dnlclaudino/sistemas-operacionais)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Testes de software|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
@@ -142,7 +146,7 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
 
-||||||
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
 |CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
@@ -158,7 +162,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Serviços de TI|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Serviços de TI](https://github.com/dnlclaudino/gerenciamento-de-servicos-de-ti)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Logística|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Administração Financeira e Orçamentária|-|-|
