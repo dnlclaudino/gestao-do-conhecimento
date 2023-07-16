@@ -25,6 +25,27 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
 |2|#6|Desenvolver texto apresenta a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
 
+## Trilha de Aprendizagem
+
+### Quando a Fonte é Escrita
+
+```mermaid
+graph LR;
+    A[Leitura]-->B[Marcação e Anotação];
+    B-- Em fonte do repositório -->C[Resumo];
+    C-->D[Resenha];
+    D-->E[Apresentação em<br>Marp/Slide.dev];
+```
+
+### Quando a Fonte NÃO é Escrita
+
+```mermaid
+graph LR;
+    A[Assistir]-- Em fonte do repositório -->C[Resumo];
+    C-->D[Resenha];
+    D-->E[Apresentação em<br>Marp/Slide.dev];
+```
+
 ## Gestão de competências
 
 Toda a minha gestão do conhecimento comunica-se com minha gestão de competências. Minha gestão de competências é orientada por linhas gerais direcionadoras (= política) representadas por declarações escritas a respeito das minhas intenções em relação aos meus conhecimentos, habilidades e atitudes, proporcionando linhas mestras para se atingir os meus objetivos pessoais, profisionais e da organizacção em que atuo, orientando decisões e a formulação de objetivos e elaboração de outras orientações relacionadas à própria gestão do conhecimento e à própria gestão de competências.
