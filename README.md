@@ -80,6 +80,7 @@ A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
   A-->CHS[Ciências<br>Humanas e<br>Sociais]
   A-->CERT[Certificações];
   A-->CP[Concursos<br>Públicos];
+  A-->RCRB[Repositório Central<br>de Referências<br>Bibliográficas]
 ```
 
 Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
@@ -118,7 +119,7 @@ graph LR;
 |CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Engenharia de Software](https://github.com/dnlclaudino/bookdown-resumo-livro-engenharia-de-software-sommervile-2007)|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Linguagens de marcação, estilo e programação](https://github.com/dnlclaudino/linguagens-marcacao-estilo-e-programacao)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Redes de Computadores](https://github.com/dnlclaudino/redes-de-computadores-e-comunicacao-de-dados)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Segurança da Informação](https://github.com/dnlclaudino/seguranca-em-tecnologia-da-informacao)|-|-|
@@ -488,9 +489,14 @@ Por tema entende-se tema, assunto, disciplina, tecnologia, metodologia, método,
 
 1. Siga as regras estabelecidas nessa política para [A hierarquia dos repositórios]() e [Fluxo de trabalho para elaboração de resumos]()
 2. Siga as regas estabelecidas para [Regras para nomenclatura de fontes]() e [Regras para nomenclatura de fontes]()
-3. 
+
+## Repositório Central de Referências Bibliográficas
+
+Existe um repositório centralizado de referências bibliográficas para toda minha gestão do conhecimento. Nele constam:
+
+- As referência bibliográfica no formato [ABNT 6023]();
+- As referência bibliográficas no formato [BibTEX](https://www.bibtex.org/)
+
 ## Referências Bibliográficas
 
 [^CONCEITOS-DO-MUNDO-2023]: Ciência. Conceitos do Mundo. Disponível em: (https://conceitosdomundo.pt/ciencia/). Acessado em: 16 jul. 2023
-
-Em construção...
