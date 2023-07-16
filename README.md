@@ -36,6 +36,7 @@ graph LR;
     B-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
     D-->E[Apresentação em<br>Marp/Slide.dev];
+    E-->A
 ```
 
 ### Quando a Fonte NÃO é Escrita
@@ -45,6 +46,7 @@ graph LR;
     A[Assistir]-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
     D-->E[Apresentação em<br>Marp/Slide.dev];
+    E-->A
 ```
 
 ## Gestão de Competências
