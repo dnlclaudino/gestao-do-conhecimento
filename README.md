@@ -42,7 +42,7 @@ graph LR;
 
 ```mermaid
 graph LR;
-    A[Assistir]-- Em fonte do repositório -->C[Resumo];
+    A[Assistir]-- Em fonte do<br> repositório -->C[Resumo];
     C-->D[Resenha];
     D-->E[Apresentação em<br>Marp/Slide.dev];
 ```
@@ -57,15 +57,41 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
 
+
+```mermaid
+graph LR;
+  A[Gestão do<br>Conhecimento ]-->B[Ciências<br>Formais];
+    A-->C[Ciências<br>Naturais];
+    A-->D[Ciências<br>Humanas e<br>Sociais]
+    A-->E[Certificações];
+    A-->F[Concursos<br>Públicos];
+
+C[Ciências<br>Formais]-->G[Arquitetura de Computadores];
+    C[Ciências<br>Formais]-->H[Algoritmos];
+    C[Ciências<br>Formais]-->I[Banco de Dados];
+    C[Ciências<br>Formais]-->J[Ciencia de Dados];
+    C[Ciências<br>Formais]-->L[Engenharia de Software];
+    C[Ciências<br>Formais]-->M[Linguagens de marcação, estilo e programação];
+    C[Ciências<br>Formais]-->N[Virtualização];
+    C[Ciências<br>Formais]-->O[Redes de Computadores];
+    C[Ciências<br>Formais]-->P[Segurança da Informação];
+    C[Ciências<br>Formais]-->Q[Sistemas Operacionais];
+    C[Ciências<br>Formais]-->S[Testes de software];
+    C[Ciências<br>Formais]-->T[];
+    C[Ciências<br>Formais]-->U[];
+
+```
+
 ### Ciências Formais
 
-Obs: Gestão e Governança de TI estão na seção de 
+Obs: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração.
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Algoritmos|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Engenharia de Software|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Linguagens de marcação, estilo e programação|-|-|
@@ -80,7 +106,6 @@ Obs: Gestão e Governança de TI estão na seção de
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 
 ### Certificações
 
@@ -91,14 +116,13 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 |AXELOS|Gestão de Serviços de TI|a) ITIL 4 Foundation<br>b) ITIL 4 Managing Professional<br>c) ITIL 4 Strategic Leader<br>d) ITILS 4 Extension Modulos<br>e) ITIL 4 Practice Manager|-|-|-|-|- [Lista com todas as certificações](https://www.axelos.com/certifications/itil-service-management) <br>- [Roadmap das certificações ITIL](https://eu-images.contentstack.com/v3/assets/blt637b065823946b12/blta8b99eeea3e749ca/6474a086421cd84f1deb9bb6/ITIL_Scheme_1800x1125_(002).png?width=900&height=562.5&fit=bounds&crop=undefined%2Csmart&format=jpg&auto=webp&quality=60&dpr=1)|
 |PMI - Project Management Institute|Gerenciamento de Projetos|a) (CAPM) Técnico Certificado em Gestão de Projetos<br>b) (PMP) Profissional de Gestão de Projetos<br>c) (PgMP) Profissional de Gestão de Programas(<br>d) (PfMP) Profissional de Gestão de Portfólio<br>e) (PMI-RMP) Profissional de Gerenciamento de Riscos PMI<br> f) (PMI-SP) Profissional de Gestão de Cronograma PMI|-|a) CAPM: **NÃO Membros** R$ 1,246,00 **Membros** R$ 1.682,00<br>b) PMP: **NÃO Membros** R$ 2.880,00 **Membros** R$ 934,00 |-|-|- [Lista com todas as certificações](https://www.pmi.org/certifications)|
 |Scrum.org<br>e<br>PMI|Gerenciamento de Projetos Ágil|**Scrum.org**<br>&nbsp;&nbsp;a) (PSM)Professional Scrum Master I-II<br>&nbsp;b) (PSPO)Professional Product Owner Master I-III<br>&nbsp;c) (PSD)Professional Scrum Development<br>&nbsp;d) (PAL)Professional Agile LeaderShip<br>&nbsp;e) dentre outros...<br><br>**PMI**<br>&nbsp;&nbsp;f) (DASM) Disciplined Agile® Scrum Master Certification|-|f) DASM: **NÃO Membros do PMI** R$2,071.00 e **Membros do PMI** R$1,656.00|-|-|- [Lista com todas as certificações](https://www.scrum.org/professional-scrum-certifications)|
+|CISCO|Redes de Computadores|**ASSOCIATE**<br>&nbsp;&nbsp;a) CCNA; b) CCDA<br>**PROFESSIONAL**<br>&nbsp;&nbsp;a) CCNP; b) CCDP<br>**EXPERT**<br>&nbsp;&nbsp;a) -; b) -|-|-|-|-|-|
+|-|Linux|-|-|-|-|-|-|
+|-|Linux|-|-|-|-|-|-|
+|Microsoft|Administração de Sistemas|-|-|-|-|-|-|
+|Oracle|Banco de Dados|-|-|-|-|-|-|
+|Oracle|Linguagem de Programação|-|-|-|-|-|-|
 
-|CISCO|Redes de Computadores|**ASSOCIATE**<br>&nbsp;&nbsp;a) CCNA; b) CCDA<br>**PROFESSIONAL**<br>&nbsp;&nbsp;a) CCNP; b) CCDP<br>**EXPERT**<br>&nbsp;&nbsp;a) -; b) -|-|-|-|-|- [Lista com todas as certificações](https://www.axelos.com/certifications/itil-service-management) <br>- [Roadmap das certificações ITIL](https://eu-images.contentstack.com/v3/assets/blt637b065823946b12/blta8b99eeea3e749ca/6474a086421cd84f1deb9bb6/ITIL_Scheme_1800x1125_(002).png?width=900&height=562.5&fit=bounds&crop=undefined%2Csmart&format=jpg&auto=webp&quality=60&dpr=1)|
-
-
-|AXELOS|ITIL4|2023|-|-|-|-|https://www.scrum.org/professional-scrum-certifications|
-|-|COBIT4|2023|-|-|-|-|https://www.scrum.org/professional-scrum-certifications|
-|-|LPI|2023|-|-|-|-|https://www.scrum.org/professional-scrum-certifications|
-|Microsoft|MSCP|2023||-|-|-|-|https://www.scrum.org/professional-scrum-certifications|
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
