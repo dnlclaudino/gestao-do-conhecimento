@@ -209,6 +209,11 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-verifique.png" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-lembre-se.png" heigh="80" width="80"><br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
 
+Causa(s) de risco(s)
+Evento(s) de risco(s)
+Consequência(s)
+Risco(s) Associado(s)
+
 ## Recursos Adicionais
 
 São recursos adicionais utilizados nos resumos
