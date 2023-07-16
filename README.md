@@ -33,7 +33,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 ```mermaid
 graph LR;
     A[Leitura]-->B[Marcação e Anotação];
-    B-- Em fonte do repositório -->C[Resumo];
+    B-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
     D-->E[Apresentação em<br>Marp/Slide.dev];
 ```
@@ -42,7 +42,7 @@ graph LR;
 
 ```mermaid
 graph LR;
-    A[Assistir]-- Em fonte do<br> repositório -->C[Resumo];
+    A[Assistir]-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
     D-->E[Apresentação em<br>Marp/Slide.dev];
 ```
