@@ -157,7 +157,7 @@ graph LR;
 |AXELOS|Gestão de Serviços de TI|a) ITIL 4 Foundation<br>b) ITIL 4 Managing Professional<br>c) ITIL 4 Strategic Leader<br>d) ITILS 4 Extension Modulos<br>e) ITIL 4 Practice Manager|-|-|-|-|- [Lista com todas as certificações](https://www.axelos.com/certifications/itil-service-management) <br>- [Roadmap das certificações ITIL](https://eu-images.contentstack.com/v3/assets/blt637b065823946b12/blta8b99eeea3e749ca/6474a086421cd84f1deb9bb6/ITIL_Scheme_1800x1125_(002).png?width=900&height=562.5&fit=bounds&crop=undefined%2Csmart&format=jpg&auto=webp&quality=60&dpr=1)|
 |PMI - Project Management Institute|Gerenciamento de Projetos|a) (CAPM) Técnico Certificado em Gestão de Projetos<br>b) (PMP) Profissional de Gestão de Projetos<br>c) (PgMP) Profissional de Gestão de Programas(<br>d) (PfMP) Profissional de Gestão de Portfólio<br>e) (PMI-RMP) Profissional de Gerenciamento de Riscos PMI<br> f) (PMI-SP) Profissional de Gestão de Cronograma PMI|-|a) CAPM: **NÃO Membros** R$ 1,246,00 **Membros** R$ 1.682,00<br>b) PMP: **NÃO Membros** R$ 2.880,00 **Membros** R$ 934,00 |-|-|- [Lista com todas as certificações](https://www.pmi.org/certifications)|
 |Scrum.org<br>e<br>PMI|Gerenciamento de Projetos Ágil|**Scrum.org**<br>&nbsp;&nbsp;a) (PSM)Professional Scrum Master I-II<br>&nbsp;b) (PSPO)Professional Product Owner Master I-III<br>&nbsp;c) (PSD)Professional Scrum Development<br>&nbsp;d) (PAL)Professional Agile LeaderShip<br>&nbsp;e) dentre outros...<br><br>**PMI**<br>&nbsp;&nbsp;f) (DASM) Disciplined Agile® Scrum Master Certification|-|f) DASM: **NÃO Membros do PMI** R$2,071.00 e **Membros do PMI** R$1,656.00|-|-|- [Lista com todas as certificações](https://www.scrum.org/professional-scrum-certifications)|
-|CISCO|Redes de Computadores|**ENTRY**<br>&nbsp;&nbsp;a) CCST Cybersecurity;<br> &nbsp;&nbsp; b) CCST Networking;<br>**ASSOCIATE**<br> &nbsp;&nbsp;a) Enterprise CCNA;<br> &nbsp;&nbsp; b) CyberOps Associate;<br> &nbsp;&nbsp; c) DevNet Associate<br> **PROFESSIONAL**<br> &nbsp;&nbsp;a) CyberOps Professional;<br>&nbsp;&nbsp;b) CCNP Colaboration;<br>&nbsp;&nbsp;c) CCNP Data Center;<br>&nbsp;&nbsp;d) CCNP Enterprise;<br>&nbsp;&nbsp;e) CCNP Security;<br>&nbsp;&nbsp;f) CCNP Service Provider;<br>&nbsp;&nbsp;g) DevNet Professional;<br> **EXPERT**<br>&nbsp;&nbsp;a) CIEE Colaboraion;<br>&nbsp;&nbsp;b) CIEE Data Center;<br>&nbsp;&nbsp;c) CIEE Enterprise Infrastructure;<br>&nbsp;&nbsp;d) CIEE Enterprise Wireless;<br>&nbsp;&nbsp;e) CIEE Security;<br>&nbsp;&nbsp;f) CIEE Service Provider;<br>&nbsp;&nbsp;g) CIEE CCDE<br>**TREINAMENTO ADICIONAL**<br>**Cisco Certified Technician (CCT)**<br>&nbsp;&nbsp;- CCT Data Center&nbsp;&nbsp;- CCT Routing & Switching|-|-|-|-|- [Lista de Certificações](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)|
+|CISCO|Redes de Computadores|**ENTRY**<br>&nbsp;&nbsp;a) CCST Cybersecurity;<br> &nbsp;&nbsp; b) CCST Networking;<br>**ASSOCIATE**<br> &nbsp;&nbsp;a) Enterprise CCNA;<br> &nbsp;&nbsp; b) CyberOps Associate;<br> &nbsp;&nbsp; c) DevNet Associate<br> **PROFESSIONAL**<br> &nbsp;&nbsp;a) CyberOps Professional;<br>&nbsp;&nbsp;b) CCNP Colaboration;<br>&nbsp;&nbsp;c) CCNP Data Center;<br>&nbsp;&nbsp;d) CCNP Enterprise;<br>&nbsp;&nbsp;e) CCNP Security;<br>&nbsp;&nbsp;f) CCNP Service Provider;<br>&nbsp;&nbsp;g) DevNet Professional;<br> **EXPERT**<br>&nbsp;&nbsp;a) CIEE Colaboraion;<br>&nbsp;&nbsp;b) CIEE Data Center;<br>&nbsp;&nbsp;c) CIEE Enterprise Infrastructure;<br>&nbsp;&nbsp;d) CIEE Enterprise Wireless;<br>&nbsp;&nbsp;e) CIEE Security;<br>&nbsp;&nbsp;f) CIEE Service Provider;<br>&nbsp;&nbsp;g) CIEE CCDE<br><br>**TREINAMENTO ADICIONAL**<br>**Cisco Certified Technician (CCT)**<br>&nbsp;&nbsp;- CCT Data Center<br>&nbsp;&nbsp;- CCT Routing & Switching|-|-|-|-|- [Lista de Certificações](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html)|
 |-|Linux|-|-|-|-|-|-|
 |-|Linux|-|-|-|-|-|-|
 |Microsoft|Administração de Sistemas|-|-|-|-|-|-|
@@ -233,15 +233,13 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |:---:|:---|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-definicao.png" heigh="80" width="80"><br>**Definição**|Esse ícone será utilizado sempre que formos introduzir uma definição, um conceito ou um enunciado que explica o significado de um termo ou expressão.|
-|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-nao-cometa-erros.png" heigh="80" width="80"><br>**Não cometa erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-nao-cometa-erros.png" heigh="80" width="80"><br>**Não cometa<br>erros**|Cuidado com detalhes que podem fazer você cometer erros. Esses detalhes serão assinalados com esse ícone|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-duvidas.png" heigh="80" width="80"><br>**Dúvida**|Dúvidas que permaneceram após as revisões ou dúvidas frequentes sobre os temas que estão sendo estudados serão assinalados com esse ícone.|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-verifique.png" heigh="80" width="80"><br>**Verifique**|Existe algo que deve passar por uma verificação antes de prosseguir. Lembre-se do que verificar sempre que ver esse ícone|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-lembre-se.png" heigh="80" width="80"><br>**Lembre-se**|Quando você vir esse ícone, estará diante de conselhos que podem ajudar a esclarecer ou destacar um ponto relevante.|
-
-Causa(s) de risco(s)
-Evento(s) de risco(s)
-Consequência(s)
-Risco(s) Associado(s)
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-causa.png" heigh="80" width="80"><br>**Causa**|Quando você vir esse ícone, estará diante da(s) causa(s) de um risco. As causam estão relacionadas com as probabilidades de um evento de risco ocorrer.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-consequencia.png" heigh="80" width="80"><br>**Consequência**|Quando você vir esse ícone, estará diante da(s) consequência(s) de um risco. As consequências estão relacionadas com os impactos decorrentes de um risco, quando ele ocorre.|
+|<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-risco.png" heigh="80" width="80"><br>**Risco(s)<br>Associado(s)**|Quando você vir esse ícone, estará diante da descrição de um **evento de risco**. Um evento de risco, juntamente com uma causa e uma consequência caracterizam um risco conforme a definição encontrada na ISO 31000/2018.|
 
 ## Recursos Adicionais
 
@@ -249,13 +247,11 @@ São recursos adicionais utilizados nos resumos
 
 |**Recurso**|**Descrição**|
 |:---:|:---|
-|<br>**Word SmartArt**||
 |<br>**Power Point**|Software de apresentação da Microsoft|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
 |<br>**MARP.app**|Outra ferramenta de elaboração de slides que permite versionamento e a separação entre a camada de conteúdo e a camada de apresentação|
-|<br>**Power Point**||
 |<br>**Mesa Digitalizadora**<br>**One by Wacom**||
 
 
