@@ -39,6 +39,8 @@ graph LR;
     A[Leitura]-->B[Marcação e<br>Anotação na<br>Fonte Escrita];
     B-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
+    D--Commits<br>Reiterados-->C;
+    D-->A;
     D-->E[Apresentação em<br>Marp/Slide.dev];
     E-->A
 ```
@@ -49,6 +51,8 @@ graph LR;
 graph LR;
     A[Assistir]-- Em fonte do<br>repositório -->C[Resumo];
     C-->D[Resenha];
+    D--Commits<br>Reiterados-->C
+    D-->A
     D-->E[Apresentação em<br>Marp/Slide.dev];
     E-->A
 ```
@@ -130,6 +134,19 @@ graph LR;
 
 Seja para melhorar as competências para acompanhar as mudanças de tecnologia, seja para obter maior satisfação no trabalho, ou até mesmo para que obter uma promoção, as certificações são essenciais hoje em dia.
 
+```mermaid
+graph LR;
+  CERT[Certificações]-->RC[Redes de<br>Computadores];
+        CERT-->L[Linux];
+        CERT-->M[Microsoft];
+        CERT-->BD[Banco de Dados];
+        CERT-->GP[Gestão de<br>Projetos];
+        CERT-->GPA[Gestão de<br>Projetos Ágeis];
+        CERT-->GS[Gestão de<br>Serviços];
+        CERT-->ST[Serviços de<br>TI];
+        CERT-->LING[Linguagens de<br>Programação];
+```
+
 |Entidade|Área de Certificação|Certificação|Descrição|Custo|Período Preparatório|Período Realização|Anotações<br>Observações|
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |AXELOS|Gestão de Serviços de TI|a) ITIL 4 Foundation<br>b) ITIL 4 Managing Professional<br>c) ITIL 4 Strategic Leader<br>d) ITILS 4 Extension Modulos<br>e) ITIL 4 Practice Manager|-|-|-|-|- [Lista com todas as certificações](https://www.axelos.com/certifications/itil-service-management) <br>- [Roadmap das certificações ITIL](https://eu-images.contentstack.com/v3/assets/blt637b065823946b12/blta8b99eeea3e749ca/6474a086421cd84f1deb9bb6/ITIL_Scheme_1800x1125_(002).png?width=900&height=562.5&fit=bounds&crop=undefined%2Csmart&format=jpg&auto=webp&quality=60&dpr=1)|
@@ -145,6 +162,13 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 ### Ciências Naturais
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
+
+```mermaid
+graph LR;
+  CN[Ciências<br>Naturais]-->CN[Física];
+        CN-->Q[Química];
+        CN-->BIO[Biologia];
+```
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
