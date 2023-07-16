@@ -7,11 +7,11 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
 
 ## Curricum Vitae
-<center>
+
   <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO-DANIEL-CLAUDINO-PERFIL-ARREDONDADO.png" width="80" height="80">
-<br>
-[Curriculum Vitae - Daniel Claudino](https://github.com/dnlclaudino/curriculum-vitae)    
-<\center>
+Curriculum Vitae - Daniel Claudino
+(https://github.com/dnlclaudino/curriculum-vitae)
+  
 ## Necessidades
 
 |#|Necessidade|
