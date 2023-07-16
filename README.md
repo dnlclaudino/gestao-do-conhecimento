@@ -57,34 +57,39 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
 
+A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023]. Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
 
 ```mermaid
 graph LR;
-  A[Gestão do<br>Conhecimento ]-->B[Ciências<br>Formais];
-    A-->C[Ciências<br>Naturais];
-    A-->D[Ciências<br>Humanas e<br>Sociais]
-    A-->E[Certificações];
-    A-->F[Concursos<br>Públicos];
+A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
+  A-->C[Ciências<br>Naturais];
+  A-->D[Ciências<br>Humanas e<br>Sociais]
+  A-->E[Certificações];
+  A-->F[Concursos<br>Públicos];
+  CF-->CC[Ciência da<br>Computação];
+        CC-->AC[Arquitetura de<br>Computadores];
+        CC-->ALG[Algoritmos];
+        CC-->BD[Banco de<br>Dados];
+        CC-->CD[Ciencia de<br>Dados];
+        CC-->ES[Engenharia de<br>Software];
+        CC-->LMEP[Linguagens de<br>marcação, estilo<br>e programação];
+        CC-->VIRT[Virtualização];
+        CC-->RC[Redes de<br>Computadores];
+        CC-->SI[Segurança da<br>Informação];
+        CC-->SO[Sistemas<br>Operacionais];
+        CC-->TS[Testes de<br>software];
+  CF-->MAT[Matemática];
+       MAT-->CALC[Cálculo];
+       MAT-->GA[Geometria Analítica];
+  CF-->ESTAT[Estatística];
+```
 
-C[Ciências<br>Formais]-->G[Arquitetura de Computadores];
-    C[Ciências<br>Formais]-->H[Algoritmos];
-    C[Ciências<br>Formais]-->I[Banco de Dados];
-    C[Ciências<br>Formais]-->J[Ciencia de Dados];
-    C[Ciências<br>Formais]-->L[Engenharia de Software];
-    C[Ciências<br>Formais]-->M[Linguagens de marcação, estilo e programação];
-    C[Ciências<br>Formais]-->N[Virtualização];
-    C[Ciências<br>Formais]-->O[Redes de Computadores];
-    C[Ciências<br>Formais]-->P[Segurança da Informação];
-    C[Ciências<br>Formais]-->Q[Sistemas Operacionais];
-    C[Ciências<br>Formais]-->S[Testes de software];
     C[Ciências<br>Formais]-->T[];
     C[Ciências<br>Formais]-->U[];
 
-```
-
 ### Ciências Formais
 
-Obs: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração.
+Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
@@ -106,6 +111,9 @@ Obs: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAI
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Trigonometria|-|-|
+
+**Obs**: Gestão e Governança de TI estão na seção de CIÊNCIAS HUMANAS E SOCIAIS > Administração.
 
 ### Certificações
 
@@ -123,25 +131,49 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 |Oracle|Banco de Dados|-|-|-|-|-|-|
 |Oracle|Linguagem de Programação|-|-|-|-|-|-|
 
+### Ciências Naturais
+
+Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
+
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
+|CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
+|CIÊNCIAS NATURAIS|Biologia|Ensino Médio|-|-|
+
+### Ciências Humanas e Sociais
+
+Também conhecido como ciências humanas, este conjunto de disciplinas se dedica ao estudo da humanidade, mas preservando uma perspectiva empírica, crítica, orientada pelo método científico. Está, bem, afastado das humanidades e do mundo da subjetividade, mas também do mundo experimental, recorrendo antes à estatística, à transdisciplinaridade e à análise do discurso . Exemplos deste tipo de ciência são: sociologia , antropologia , ciência política , economia , geografia , etc.
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Portugues|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Serviços de TI|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Logística|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Administração Financeira e Orçamentária|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Introdução à Contabilidade|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Ciência Política|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Economia|Introdução à Economia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|Introdução à Filosofia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|Geografia Geral|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|Geografia do Brasil|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Português|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|ISO|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|NBR|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
@@ -150,64 +182,8 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 
 |Ano|Concurso|Cargo|Tema|Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|:---|:---|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Português|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Constitucional|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Eleitoral|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Noções de Direito Administrativo|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Normas Aplicáveis aos Servidores Públicos Federais|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Básicos:|Inglês Técnico|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Fundamentos da Computação|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Engenharia de Software|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Gerência de Projetos de Software|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Redes de Computadores|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Banco de Dados|-|-|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Linguagens de Programação / Formatação|-|-|
-
-|#|Área do Conhecimento|Descrição|Link|
-|:---:|:---|:---|:---|
-|1|ADMINISTRACAO|||
-||ANATOMIA|||
-||ANTROPOLOGIA|||
-||AUDITORIA|||
-||BIOLOGIA|||
-||CALIGRAFIA|||
-||CIENCIA DA COMPUTACAO|||
-||CIENCIA POLITICA|||
-||CONCURSO|||
-||CONTABILIDADE|||
-||DIREITO|||
-||ECONOMIA|||
-||ENGENHARIA|||
-||ESTATISTICA|||
-||FILOSOFIA|||
-||FISICA|||
-||GEOGRAFIA
-||GESTÃO DE DISPENSAS DE LICITAÇÕES|||
-||GESTÃO DOCUMENTAL|||
-||GESTÃO DE CONTRATOS|||
-||GESTÃO DE INEXIGIBILIDADES|||
-||GESTÃO DE LICITAÇÕES PÚBLICAS|||
-||GESTÃO DE RISCOS|||
-||GESTÃO ORÇAMENTÁRIA|||
-||GESTAO DE PROCESSOS DE TRABALHO|||
-||GESTÃO DE PROJETOS|||
-||GESTÃO DE TI|||
-||GOVERNANÇA|||
-||HISTORIA|||
-||LINGUISTICA|||
-||LITERATURA|||
-||LOGISTICA|||
-||MATEMATICA|||
-||MEDICINA|||
-||MEIO-AMBIENTE|||
-||METODOLOGIA CIENTIFICA E DA PESQUISA|||
-||MITOLOGIA|||
-||NORMAS NACIONAIS E INTERNACIONAIS|||
-||NORMAS JURIDICAS|||
-||PSICOLOGIA|||
-||QUIMICA|||
-||REVISTAS|||
-||SOCIOLOGIA|||
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário: Analista de Suporte|Conhecimentos Básicos:|&nbsp;&nbsp;- Português<br>&nbsp;&nbsp;- Noções de Direito Constitucional<br>&nbsp;&nbsp;- Noções de Direito Eleitoral<br>&nbsp;&nbsp;- Noções de Direito Administrativo<br>&nbsp;&nbsp;- Normas Aplicáveis aos Servidores Públicos Federais<br>&nbsp;&nbsp;- Inglês Técnico|
+|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Fundamentos da Computação<br>&nbsp;&nbsp;-Engenharia de Software<br>&nbsp;&nbsp;-Gerência de Projetos de Software<br>&nbsp;&nbsp;-Redes de Computadores<br>&nbsp;&nbsp;-Banco de Dados<br>&nbsp;&nbsp;-Linguagens de Programação / Formatação|
 
 ## Ícones Utilizados
 
@@ -466,5 +442,9 @@ Por tema entende-se tema, assunto, disciplina, tecnologia, metodologia, método,
 
 1. Siga as regras estabelecidas nessa política para [A hierarquia dos repositórios]() e [Fluxo de trabalho para elaboração de resumos]()
 2. Siga as regas estabelecidas para [Regras para nomenclatura de fontes]() e [Regras para nomenclatura de fontes]()
+3. 
+## Referências Bibliográficas
+
+[^CONCEITOS-DO-MUNDO-2023]: Ciência. Conceitos do Mundo. Disponível em: (https://conceitosdomundo.pt/ciencia/). Acessado em: 16 jul. 2023
 
 Em construção...
