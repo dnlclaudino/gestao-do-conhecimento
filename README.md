@@ -141,13 +141,18 @@ Seja para melhorar as competências para acompanhar as mudanças de tecnologia, 
 graph LR;
   CERT[Certificações]-->RC[Redes de<br>Computadores];
         CERT-->L[Linux];
-        CERT-->M[Microsoft];
         CERT-->BD[Banco de Dados];
         CERT-->GP[Gestão de<br>Projetos];
         CERT-->GPA[Gestão de<br>Projetos Ágeis];
         CERT-->GS[Gestão de<br>Processos - BPM];
         CERT-->ST[Serviços de<br>TI];
         CERT-->LING[Linguagens de<br>Programação];
+                LING-->JAVA[Java]
+                LING-->JS[JavaScript]
+                       JS-->JSFE[JavaScript FrontEnd]
+                       JS-->JSBE[JavaScript BackEnd]
+                            JSBE-->NJ[Node.JS]
+        CERT-->M[Microsoft];
 ```
 
 |Entidade|Área de Certificação|Certificação|Descrição|Custo|Período Preparatório|Período Realização|Anotações<br>Observações|
@@ -248,6 +253,7 @@ São recursos adicionais utilizados nos resumos
 
 |**Recurso**|**Descrição**|
 |:---:|:---|
+|<br>**Geogebra**|Ferramenta matemática para geometria e algebra|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
