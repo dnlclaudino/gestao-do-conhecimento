@@ -87,6 +87,8 @@ Para viabilizar e facilitar a gestão do conhecimento, todo o material será pro
 
 Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
 
+**ATENÇÃO**: Sempre que adicionar novas **Áreas do conhecimento**, atualizar o [Repositório Central de Referências Bibliográficas](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master).
+
 ```mermaid
 graph LR;
   CF[Ciências<br>Formais]-->CC[Ciência da<br>Computação];
@@ -220,6 +222,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|ISO|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|NBR|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
