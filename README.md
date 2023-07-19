@@ -8,7 +8,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ## Curricum Vitae
 
-  <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO-DANIEL-CLAUDINO-PERFIL-ARREDONDADO.png" width="80" height="80">
+<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO-DANIEL-CLAUDINO-PERFIL-ARREDONDADO.png" width="80" height="80">
 Curriculum Vitae - Daniel Claudino
 (https://github.com/dnlclaudino/curriculum-vitae)
   
@@ -264,7 +264,6 @@ São recursos adicionais utilizados nos resumos
 |<br>**Power Point**|Apresentações elaboradas com o software **Power Point** da Microsoft|
 |<br>**Mesa Digitalizadora**<br>**One by Wacom**|Desenhos e anotações em formato PNG construídas à mão livre, feitas com a mesa digitalizadora da Wacom.|
 
-
 ## A Hierarquia dos Repositórios
 
 1. O primeiro nível do repositório corresponderá a um tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática;
@@ -286,6 +285,14 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 1. Deve-se identificar o tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental);
 2. Verificar se já existe um repositório (Github) para o resumo
     - Caso não exista, criar um repositório no Github;
+    - Incluir informações de licença no repositorio (normalmente [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) )
+      - Você tem os seguintes direitos:
+        - Compartilhar: copiar e redistribuir o material em qualquer suporte ou formato
+        - Adaptar: remixar, transformar, e criar a partir do material
+      - De acordo com os seguintes termos:
+        - Atribuição — Você deve dar o crédito apropriado, prover um link para a licença e indicar se mudanças foram feitas. Você deve fazê-lo em qualquer circunstância razoável, mas de nenhuma maneira que sugira que o licenciante apoia você ou o seu uso.
+        - Não Comercial — Você não pode usar o material para fins comerciais.
+        - Compartilha Igual — Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.
 3. Verificar se já existe a FONTE no repositório (Github) para o resumo
     - Caso não exista, criar a FONTE dentro do repositório;
 4. Organizar o repositório em pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown próprio;
@@ -293,12 +300,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Um Branch chamada master para a versão final dos documentos (arquivos)
     - Deve ser criada uma branch chamada desenvolvimento-’nome-da-fonte’-’nome-do-capitulo/unid.parte’ para adição, alteração, remoção de texto do resumo
     - Não modificar diretamente a branch master !
-
 6. Após a revisão do texto elaborado na branch desenvolvimento-’nome-da-fonte’-’nome-do-capitulo/unid.parte’’ , deve ser feito um merge com a branch master;
 7. Após a conclusão do resumo de uma capítulo, unidade, parte do documento, etc:
     - Deve ser criado uma TAG no repositório com o número da versão e descrição do que foi resumido;
       - Obs: Seguir regras de versionamento semântico deste documento para denominação das TAGS
     - O arquivo “README.md” deve ser atualizado;
+
 
 ## Regras para versionamento semântico nos documentos
 
