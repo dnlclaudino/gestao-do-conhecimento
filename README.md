@@ -285,8 +285,9 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 1. Deve-se identificar o tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental);
 2. Verificar se já existe um repositório (Github) para o resumo
     - Caso não exista, criar um repositório no Github;
-    - Incluir informações sobre a **versão da política de gestão do conhecimento** com seção "Versão da Política de Gestão do Conhecimento" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
-    - Incluir informações de licença no repositorio (normalmente [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) )
+    - Incluir seção "**Versão da Política de Gestão do Conhecimento**" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
+    - Incluir seção "**Relação das Compatências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
+    - Incluir seção "**Licença deste material**" seguindo as orientações abaixo:
       - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para  ns não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos."
       - Você tem os seguintes direitos:
         - Compartilhar: copiar e redistribuir o material em qualquer suporte ou formato
@@ -295,6 +296,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
         - Atribuição — Você deve dar o crédito apropriado, prover um link para a licença e indicar se mudanças foram feitas. Você deve fazê-lo em qualquer circunstância razoável, mas de nenhuma maneira que sugira que o licenciante apoia você ou o seu uso.
         - Não Comercial — Você não pode usar o material para fins comerciais.
         - Compartilha Igual — Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.
+      - Normalmente, sigo a licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) 
 3. Verificar se já existe a FONTE no repositório (Github) para o resumo
     - Caso não exista, criar a FONTE dentro do repositório;
 4. Organizar o repositório em pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown próprio;
