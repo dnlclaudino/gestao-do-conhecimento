@@ -139,6 +139,8 @@ graph LR;
 
 Seja para melhorar as competências para acompanhar as mudanças de tecnologia, seja para obter maior satisfação no trabalho, ou até mesmo para que obter uma promoção, as certificações são essenciais hoje em dia.
 
+Acesse o [repositório de certificações](https://github.com/dnlclaudino/certificacoes) contendo todas as fontes de todas as certificações relacionadas abaixo.
+
 ```mermaid
 graph LR;
   CERT[Certificações]-->RC[Redes de<br>Computadores];
