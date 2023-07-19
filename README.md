@@ -285,6 +285,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 1. Deve-se identificar o tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental);
 2. Verificar se já existe um repositório (Github) para o resumo
     - Caso não exista, criar um repositório no Github;
+    - Incluir informações sobre a **versão da política de gestão do conhecimento** com seção "Versão da Política de Gestão do Conhecimento" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
     - Incluir informações de licença no repositorio (normalmente [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) )
       - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para  ns não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos."
       - Você tem os seguintes direitos:
