@@ -8,7 +8,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ## Curricum Vitae
 
-<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO-DANIEL-CLAUDINO-PERFIL-ARREDONDADO.png" width="80" height="80">
+<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png" width="80" height="80">
 Curriculum Vitae - Daniel Claudino
 (https://github.com/dnlclaudino/curriculum-vitae)
   
