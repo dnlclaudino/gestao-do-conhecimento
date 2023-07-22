@@ -8,7 +8,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ## Sobre
 
-<table border="0">
+<table align="center" border="0">
 <tr>
   <td align="center">
      <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png" width="80" height="80"><br>
@@ -123,7 +123,7 @@ graph LR;
 |CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Estatística|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
-|CIÊNCIAS FORMAIS|Ciência da Computação|[Engenharia de Software](https://github.com/dnlclaudino/bookdown-resumo-livro-engenharia-de-software-sommervile-2007)|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Engenharia de Software e UML](https://github.com/dnlclaudino/engenharia-de-software-e-uml)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Linguagens de marcação, estilo e programação](https://github.com/dnlclaudino/linguagens-marcacao-estilo-e-programacao)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Redes de Computadores](https://github.com/dnlclaudino/redes-de-computadores-e-comunicacao-de-dados)|-|-|
@@ -223,9 +223,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Geografia|Geografia do Brasil|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Português|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Redação|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Inglês|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica/tree/master)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
