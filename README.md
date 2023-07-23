@@ -76,8 +76,14 @@ Todo os meus conhecimentos que foram considerados relevantes para minha gestão 
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br><b>Atenção</b></td>
-    <td valign="top">Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a></td>.
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>
+       <b>Atenção</b>
+    </td>
+    <td valign="top">
+      Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
+      <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
+    </td>.
   </tr>
 </table>
 
