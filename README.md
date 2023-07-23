@@ -72,7 +72,14 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 ## Áreas para Minha Gestão do Conhecimento
 
-Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente. Uma minuta das áreas de conhecimento encontra-se relacionada abaixo: (Continuar... https://conceitosdomundo.pt/ciencia/ )
+Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente.
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br><b>Atenção</b></td>
+    <td valign="top">Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a></td>.
+  </tr>
+</table>
 
 A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023].
 
@@ -91,8 +98,6 @@ Para viabilizar e facilitar a gestão do conhecimento, todo o material será pro
 ### Ciências Formais
 
 Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
-
-**ATENÇÃO**: Sempre que adicionar novas **Áreas do conhecimento**, atualizar o [Repositório Central de Referências Bibliográficas](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master).
 
 ```mermaid
 graph LR;
