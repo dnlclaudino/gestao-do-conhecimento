@@ -249,8 +249,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 
 |Ano|Concurso|Cargo|Tema|Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|:---|:---|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário: Analista de Suporte|Conhecimentos Básicos:|&nbsp;&nbsp;- Português<br>&nbsp;&nbsp;- Noções de Direito Constitucional<br>&nbsp;&nbsp;- Noções de Direito Eleitoral<br>&nbsp;&nbsp;- Noções de Direito Administrativo<br>&nbsp;&nbsp;- Normas Aplicáveis aos Servidores Públicos Federais<br>&nbsp;&nbsp;- Inglês Técnico|
-|2024|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário|Conhecimentos Específicos:|Fundamentos da Computação<br>&nbsp;&nbsp;-Engenharia de Software<br>&nbsp;&nbsp;-Gerência de Projetos de Software<br>&nbsp;&nbsp;-Redes de Computadores<br>&nbsp;&nbsp;-Banco de Dados<br>&nbsp;&nbsp;-Linguagens de Programação / Formatação|
+|2025|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário: Analista de Suporte|Conhecimentos Básicos:<br><br>Conhecimentos Específicos:|&nbsp;&nbsp;- Português<br>&nbsp;&nbsp;- Noções de Direito Constitucional<br>&nbsp;&nbsp;- Noções de Direito Eleitoral<br>&nbsp;&nbsp;- Noções de Direito Administrativo<br>&nbsp;&nbsp;- Normas Aplicáveis aos Servidores Públicos Federais<br>&nbsp;&nbsp;- Inglês Técnico<br><br>Fundamentos da Computação<br>&nbsp;&nbsp;-Engenharia de Software<br>&nbsp;&nbsp;-Gerência de Projetos de Software<br>&nbsp;&nbsp;-Redes de Computadores<br>&nbsp;&nbsp;-Banco de Dados<br>&nbsp;&nbsp;-Linguagens de Programação / Formatação|
 
 ## Ícones Utilizados
 
