@@ -254,6 +254,8 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 
 ## Ícones Utilizados
 
+Serão utilizados os ícones abaixo em todo o material produzido nesta gestão do conhecimento:
+
 |**Ícone**|**Descrição**|
 |:---:|:---|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>**Atenção**|Esse ícone será utilizado quando algo de muito importante deva ser ressaltado. Leia com atenção o que estiver indicado com esse ícone.|
@@ -265,6 +267,21 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-causa.png" heigh="80" width="80"><br>**Causa**|Quando você vir esse ícone, estará diante da(s) causa(s) de um risco. As causam estão relacionadas com as probabilidades de um evento de risco ocorrer.|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-consequencia.png" heigh="80" width="80"><br>**Consequência**|Quando você vir esse ícone, estará diante da(s) consequência(s) de um risco. As consequências estão relacionadas com os impactos decorrentes de um risco, quando ele ocorre.|
 |<img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-risco.png" heigh="80" width="80"><br>**Risco(s)<br>Associado(s)**|Quando você vir esse ícone, estará diante da descrição de um **evento de risco**. Um evento de risco, juntamente com uma causa e uma consequência caracterizam um risco conforme a definição encontrada na ISO 31000/2018.|
+
+Segue abaixo modelo para utilização ods ícones lembrando que **o texto que acompanha os ícones** deve manter relação com o **tipo de ícone** utilizado.
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>
+       <b>Atenção</b>
+    </td>
+    <td valign="top">
+      Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
+      <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
+    </td>.
+  </tr>
+</table>
 
 ## Recursos Adicionais
 
