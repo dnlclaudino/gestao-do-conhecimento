@@ -1,4 +1,4 @@
-# Política de Gestão de Conhecimento
+# Gestão de Conhecimento
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
