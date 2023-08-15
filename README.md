@@ -127,7 +127,7 @@ graph LR;
   CF-->ESTAT[Estatística];
 ```
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Arquitetura de Computadores|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Algoritmos|-|-|
@@ -201,7 +201,7 @@ graph LR;
         CN-->B[Biologia];
 ```
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
 |CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
@@ -211,7 +211,7 @@ graph LR;
 
 Também conhecido como ciências humanas, este conjunto de disciplinas se dedica ao estudo da humanidade, mas preservando uma perspectiva empírica, crítica, orientada pelo método científico. Está, bem, afastado das humanidades e do mundo da subjetividade, mas também do mundo experimental, recorrendo antes à estatística, à transdisciplinaridade e à análise do discurso . Exemplos deste tipo de ciência são: sociologia , antropologia , ciência política , economia , geografia , etc.
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Área do Conhecimento|Descrição|Link|
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
