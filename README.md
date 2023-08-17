@@ -335,7 +335,7 @@ F-->SL[slide];
     - Uma pasta chamada "código-fonte" para armazenar códigos-fonte;
     - Obs: podem haver outras pastas para armazenar outros RECURSOS, devendo ser seguido as regras de nomenclatura de PASTAS explicitadas mais adiante;
 
-3. O terceiro nível na hierarquia do repositório conterá pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown (*.MD)
+4. O terceiro nível na hierarquia do repositório conterá pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown (*.MD)
 
 ## Fluxo de trabalho para elaboração de resumos
 
