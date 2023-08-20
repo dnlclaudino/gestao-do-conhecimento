@@ -224,7 +224,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Introdução à Contabilidade|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Administrativo|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas<br>com Computação<br>LGPD - Lei geral de<br> Proteção de Dados|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
