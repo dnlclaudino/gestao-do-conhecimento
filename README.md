@@ -187,13 +187,12 @@ Segue abaixo modelo para utilização ods ícones lembrando que **o texto que ac
 <table>
   <tr>
     <td align="center">
-       <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>
-       <b>Atenção</b>
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa<br>Erros</b>
     </td>
     <td valign="top">
-      Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
-      <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
-    </td>.
+      Não confunda <b>atos administrativos</b> com <b>atos da administração</b>, para mais informações veja "<a href="#atos-privados-praticados-pela-administração">Atos Privados Praticados Pela Administração</a>"
+    </td>
   </tr>
 </table>
 
