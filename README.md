@@ -130,9 +130,15 @@ graph LR;
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-|CIÊNCIAS NATURAIS|Física|Ensino Médio|-|-|
-|CIÊNCIAS NATURAIS|Química|Ensino Médio|-|-|
-|CIÊNCIAS NATURAIS|Biologia|Ensino Médio|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 1|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 2|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 3|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 1|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 2|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 3|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 1](https://github.com/dnlclaudino/biologia-1)|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
 
 ### Ciências Humanas e Sociais
 
