@@ -166,8 +166,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|ISO|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações<br>Nacionais e<br>Internacionais|NBR|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|História da Psicologia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|Introdução à Psicologia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|Introdução à Sociologia|-|-|
