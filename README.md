@@ -133,9 +133,9 @@ graph LR;
 |CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 1|-|-|
 |CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 2|-|-|
 |CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 3|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 1|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 2|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|Química 3|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 1](https://github.com/dnlclaudino/quimica-1)|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 2](https://github.com/dnlclaudino/quimica-2)|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 3](https://github.com/dnlclaudino/quimica-3)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 1](https://github.com/dnlclaudino/biologia-1)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
