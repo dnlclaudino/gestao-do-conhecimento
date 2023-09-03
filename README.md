@@ -94,6 +94,7 @@ graph LR;
 A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
   A-->CN[Ciências<br>Naturais];
   A-->CHS[Ciências<br>Humanas e<br>Sociais]
+  A-->PRO[Trabalho];
   A-->CERT[Certificações];
   A-->CP[Concursos<br>Públicos];
   A-->RCRB[Repositório Central<br>de Referências<br>Bibliográficas]
@@ -175,6 +176,22 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
+
+### Trabalho
+
+|#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
+|:---|:---|:---|:---|
+|1|Atribuições<br>Extraregulamentares<br>da SEINF|Governança e<br> Gestão da Estratégia|-|
+|2|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
+|3|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|4|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
+|5|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
+|6|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
+|7|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|8|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
+|9|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solunção ou Serviço|-|
+|10|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
+|11|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
 ### Concursos Públicos e Certificações
 
