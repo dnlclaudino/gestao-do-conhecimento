@@ -450,16 +450,18 @@ M-->DC;
 ```
 
 1. Prefixos
-  1.1. Prefixo "Criar Fonte"
-  1.2. Prefixo "Redigir"
-  1.3. Prefixo "Revisar"
-  1.4. Prefixo "Adicionar Recurso"
+  - Prefixo "Criar Fonte"
+  - Prefixo "Redigir"
+  - Prefixo "Revisar"
+  - Prefixo "Adicionar Recurso"
 2. Descrição do Commit
   - Deixar claro a parte do documento que está sendo editada;
   - Descreva brevemente a figura ou arquivo e a sua relevância para o documento;
 3. Detalhes do Commit
 
-- O Prefixo REVISAR deve ser usado para as seguintes formatações e alterações no documento:
+<hr>
+
+- O Prefixo **REVISAR** deve ser usado para as seguintes formatações e alterações no documento:
   - Formatações: Formatar um documento significa:
     - Estabelecer/Alterar o alinhamento;
     - Inclusão/Exclusão de hiperlinks no texto;
