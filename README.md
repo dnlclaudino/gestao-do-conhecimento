@@ -115,7 +115,7 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 |CIÊNCIAS FORMAIS|Matemática|[Ensino Fundamental](https://github.com/dnlclaudino/matematica-ensino-fundamental)|-|-|
 |CIÊNCIAS FORMAIS|Matemática|[Ensino Médio](https://github.com/dnlclaudino/matematica-ensino-medio)|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático]()|-|-|
+|CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico)|-|-|
 
 ### Ciências Naturais
 
