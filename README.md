@@ -281,8 +281,8 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Caso não exista, criar um repositório no Github;
     - Mantenha o padrão da gestão do conhecimento, incluindo seção "**Versão da Política de Gestão do Conhecimento**" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
     - Incluir seção "**Relação das Compatências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
-    - Incluir seção "**Licença deste material**" seguindo as orientações abaixo:
-      - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos."
+    - Incluir seção "**Licença**" seguindo as orientações abaixo:
+      - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, **desde que atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as novas criações sob termos idênticos."
       - Você tem os seguintes direitos:
         - Compartilhar: copiar e redistribuir o material em qualquer suporte ou formato
         - Adaptar: remixar, transformar, e criar a partir do material
