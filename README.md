@@ -405,86 +405,63 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 
 - Os **commits** devem ter entre 50 a 60 caracteres
 - A mensagem de commit deve começar com um **prefixo** seguindo de dois pontos;
-- O prefixo deve expressar a **razão (o porquê) de realizar o commit**
-- Commits com mais de uma razão diferente deve ser dividido em tantos commits quanta razões diferentes existirem
-- Commits devem deixar claro a parte que está sendo construída, revisada ou removida do produto final
+- O prefixo deve expressar a **razão (o porquê) de realizar o commit**;
+- Commits com mais de uma razão diferente devem ser divididos em tantos commits quantas razões diferentes existirem;
+- Commits devem deixar claro a parte que está sendo construída, revisada ou removida do produto final;
 
-### Razões para os commits (com PREFIXOS)
+### Como descrever um Commits ?
 
-1. Primeiro commit de uma tema (repositório):
-  - **Orientações**:
-    - Orientação 1
-    - Orientação 2
-  - **Prefixo**: "CRIAÇÃO REPOSITÓRIO: "
-  - **Mensagem de Commit**: Versão Inicial (V0.0.1)
-  - **Descrição da Mensagem**:
-    - Linha 1 (...)
-    - Linha 2 (...)
-2. Primeiro commit de uma **FONTE**:
-  - **Orientações**:
-    - Orientação 1
-    - Orientação 2  
-  - **Prefixo**: "CRIAÇÃO FONTE: "
-  - **Mensagem de Commit**: Versão Inicial (V0.0.1)
-  - **Descrição da Mensagem**:
-    - Linha 1 (...)
-    - Linha 2 (...)
-3. Para conclusão de **RESUMO** de itens do documento:
-  - **Prefixo**: "RESUMO:"
-  - **Mensagem de Commit**: Concluir resumo unid. **01** / cap. **01** / item **2.1**
-  - **Descrição da Mensagem**:
-    - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
-    - 3/11 itens concluídos;
-    - Atualizar progresso para ~18,2%;
-4. Para conclusão de **RESUMO(S)** de itens do documentos e **REVISÃO** de itens anteriores:
-  - **Prefixo**: "RES-REV:"
-  - **Mensagem de Commit**: Concluir resumo unid. **01** / cap. **01** / item **2.1**
-  - **Descrição da Mensagem**:
-    - Finalizado o resumo do item 2 (O Sistema De Comunicação) da unid. 01 / cap. 01;
-    - 3/11 itens concluídos;
-    - Atualizar progresso para ~18,2%;
-5. Para **REVISÃO** do documento apenas:
-  - **Orientação**: Revisões podem ser utilizadas tanto para corrigir erros ortográficos, morfológicos e semênticos no texto, como também utilizadas para corrigir erros que causam má formatação do documento ou até mesmo erros que impeção a sua correta visualização.
-  - **Prefixo**: "REVISAO:"
-  - **Mensagem de Commit**: Concluir revisão unid. **01** / cap. **01** / item **2.1** ou itens **2.2, 2.3, 3.1, 4.5 e 6** do livro/apostila/lei/resolução/etc
-  - **Descrição da Mensagem**:
-    - Linha 1 (...)
-    - Linha 2 (...)
-6. Para **ACRESCENTAR TEXTO** de outras fontes para o documento apenas
-  - **Prefixo**: "ACRESCIMO:"
-  - **Mensagem de Commit**: Acrescentar conteúdo na unid. **01** / cap. **01** / item **2.1**
-  - **Descrição da Mensagem**:
-    - Foi(ram) acrescentado(s) conteúdo(s) aos item(ns) da unid. 01 / cap. 01
-      - Item 2: O Sistema De Comunicação;
-      - Item 2.2: Sinais analógicos e sinais digitais;
-7. Para inclusão de figuras apenas
-  - **Prefixo**: "FIGURA:"
-  - **Mensagem de Commit**: Criar nova figura na unid.01/cap.01/item 2.1 
-  - **Descrição da Mensagem**:
-    - Nome da figura: "figura-unidade-01-capitulo-01-sinais-analogicos-sinais-digitais.png"
-    - Indique onde a figura será inicialmente utilizada (p.ex. na unid. 01 / cap. 01 / item 2.1 )
-    - Descrição da figura e de sua relevância para o documento
-8. Para inclusão de outros artefatos apenas
-  - **Planilhas**
-    - **Prefixo**: "PLANILHA:" 
-    - **Mensagem de Commit**: Criar nova planilha "NOME-DA-PASTA"
-    - **Descrição da Mensagem**:
-      - Descrição do conteúdo da planilha;
-      - Descrição de cada parte/aba da planilha e sua utilizade (...)
-  - Arquivos de **mapas mentais**
-    - **Prefixo**: "MAPA-MENTAL:"
-    - **Mensagem de Commit**: Criar novo mapa mental "NOME-DA-PASTA"
-    - **Descrição da Mensagem**:
-      - Linha 1 (...)
-      - Linha 2 (...) 
-  - Criação de **pastas**
-    - **Prefixo**: "NOVA-PASTA:"
-    - **Mensagem de Commit**: Criar nova pasta "NOME-DA-PASTA"
-    - **Descrição da Mensagem**:
-      - Linha 1 (...)
-      - Linha 2 (...) 
-9. Para revisão APENAS da **FORMATAÇÃO** no documento:
-  - Orientação: Formatar um documento significa:
+```mermaid
+flowchart LR;
+%% Elementos
+M["Mensagem<br>de<br>Commit"];
+P["Prefixo"];
+  CF["Criar Fonte:"];
+  RED["Redigir:"];
+  REV["Revisar:"];
+  AR["Adicionar Recurso:"];
+    PT["Pasta"];
+    FIG["Figura"];
+    PLAN["Planilha"];
+    PDF["Arquivo<br>PDF"];
+    HTML["Arquivo<br>HTML"];
+    MD[Arquivo<br>"Markdown"];
+    JSON["Arquivo<br>JSON"];
+    XML["Arquivo<br>XML"];
+D["Descrição do Commit"];
+DC["Detalhe<br>do<br>Commit"];
+
+%% Ligações
+M-->P;
+  P-->CR;
+  P-->CF;
+  P-->RED;
+  P-->REV;
+  P-->AR;
+    AR-->PT;
+    AR-->FIG;
+    AR-->PLAN;
+    AR-->PDF;
+    AR-->HTML;
+    AR-->MD;
+    AR-->JSON;
+    AR-->XML;
+M-->D;
+M-->DC;
+```
+
+1. Prefixos
+  1.1. Prefixo "Criar Fonte"
+  1.2. Prefixo "Redigir"
+  1.3. Prefixo "Revisar"
+  1.4. Prefixo "Adicionar Recurso"
+2. Descrição do Commit
+  - Deixar claro a parte do documento que está sendo editada;
+  - Descreva brevemente a figura ou arquivo e a sua relevância para o documento;
+3. Detalhes do Commit
+
+- O Prefixo REVISAR deve ser usado para as seguintes formatações e alterações no documento:
+  - Formatações: Formatar um documento significa:
     - Estabelecer/Alterar o alinhamento;
     - Inclusão/Exclusão de hiperlinks no texto;
     - Estabelecer/Alterar espaçamento;
@@ -495,12 +472,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Aglutinar em um parágrafo a partir de dois ou mais parágrafos já existentes;
     - Criar/Alterar lista ordenada/não ordenada de itens já existentes
     - Entre outras ações, de forma a obter um documento de acordo com as preferências do utilizador.
-  - **Prefixo**: "FORMATAÇÃO:"
-  - **Mensagem de Commit**: Realizada formatação de conteúdo na unid. **01** / cap. **01** / item **2.1**
-  - **Descrição da Mensagem**:
-    - Realizada **formatação de conteúdo** na unid. **01** / cap. **01**
-      - Item X: NOME-DO-ITEM
-      - Item X: NOME-DO-ITEM
+
 
 ## Como incluir um novo tema no repositório
 
