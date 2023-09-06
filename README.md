@@ -158,20 +158,18 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Jurídicas|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Normas Relacionadas<br>com Computação<br>LGPD - Lei geral de<br> Proteção de Dados|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Economia|Economia|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|Geografia Geral|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|Geografia do Brasil|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|História Geral|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|História do Brasil|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica/tree/master)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|Literatura|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Anatomia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|Fisiologia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|Metodologia Ciêntífica<br>e da Pesquisa|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Literatura](https://github.com/dnlclaudino/literatura)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
