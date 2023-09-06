@@ -412,7 +412,8 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 ### Como descrever um Commits ?
 
 ```mermaid
-flowchart LR;
+flowchart LR
+
 %% Elementos
 M["Mensagem<br>de<br>Commit"];
 P["Prefixo"];
@@ -425,27 +426,26 @@ P["Prefixo"];
     PLAN["Planilha"];
     PDF["Arquivo<br>PDF"];
     HTML["Arquivo<br>HTML"];
-    MD[Arquivo<br>"Markdown"];
+    MD["Arquivo<br>Markdown"];
     JSON["Arquivo<br>JSON"];
     XML["Arquivo<br>XML"];
-D["Descrição do Commit"];
+D["Descrição<br>do Commit"];
 DC["Detalhe<br>do<br>Commit"];
 
 %% Ligações
 M-->P;
-  P-->CR;
   P-->CF;
   P-->RED;
   P-->REV;
   P-->AR;
-    AR-->PT;
-    AR-->FIG;
-    AR-->PLAN;
-    AR-->PDF;
-    AR-->HTML;
-    AR-->MD;
-    AR-->JSON;
-    AR-->XML;
+    AR-->PT-->DC;
+    AR-->FIG-->DC;
+    AR-->PLAN-->DC;
+    AR-->PDF-->DC;
+    AR-->HTML-->DC;
+    AR-->MD-->DC;
+    AR-->JSON-->DC;
+    AR-->XML-->DC;
 M-->D;
 M-->DC;
 ```
