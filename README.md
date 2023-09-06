@@ -131,9 +131,9 @@ graph LR;
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 1|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 2|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|Fisica 3|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 1](https://github.com/dnlclaudino/fisica-1)|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 2](https://github.com/dnlclaudino/fisica-2)|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 3](https://github.com/dnlclaudino/fisica-3)|-|-|
 |CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 1](https://github.com/dnlclaudino/quimica-1)|-|-|
 |CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 2](https://github.com/dnlclaudino/quimica-2)|-|-|
 |CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 3](https://github.com/dnlclaudino/quimica-3)|-|-|
