@@ -72,7 +72,7 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 ## Áreas para Minha Gestão do Conhecimento
 
-Todo os meus conhecimentos que foram considerados relevantes para minha gestão do conhecimento e de competências pessoal, profissional e da organização em que atuo são relacionados abaixo. É importante ressaltar que a categorização das áreas do conhecimento relevantes para minha vida pessoal, profissional e da organização em que atuo passará por um trabalho de revisão aperfeiçoamento para, de forma mais técnica, ser categorizada adequadamente.
+Todo os conhecimentos que foram considerados relevantes para minha gestão do conhecimento e minha gestão de competências pessoal, profissional e organizacional em que atuo são relacionados abaixo. Pretende-se realizar um trabalho contínuo de revisão e aperfeiçoamento para que ela seja categorizada cada vez mais de forma técnica.
 
 <table>
   <tr>
@@ -83,7 +83,7 @@ Todo os meus conhecimentos que foram considerados relevantes para minha gestão 
     <td valign="top">
       Sempre que adicionar novas <b>Áreas do conhecimento</b>, atualizar o 
       <a href="https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master">Repositório Central de Referências Bibliográficas</a>
-    </td>.
+    </td>
   </tr>
 </table>
 
