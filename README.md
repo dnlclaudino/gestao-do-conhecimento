@@ -147,6 +147,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Pessoas > [Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
