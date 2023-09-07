@@ -1,11 +1,14 @@
 # Aula 01 - Fundamentos da Gestão do Conhecimento
 
+link para aula: 
+
 ## Gestão do Conhecimento: O que É e o que NÃO É
 
 - Gestão do conhecimento **NÃO É** sistema de gestão da informação;
 - Gestão do conhecimento **NÃO É** gestão da informação;
 - Gestão do conhecimento **NÃO É** compartilhar informação;
 - Gestão do conhecimento **NÃO É** privilégio de grandes organizações;
+- Gestão do conhecimento **NÃO SÓ** lida com **conhecimento explícito**, lida também com o **conhecimento implícito ou tácito**;
 
 ```mermaid
 flowchart LR;
@@ -26,8 +29,12 @@ GC["Elementos da<br>Gestão do<br>Conhecimento"];
 ## Diferença entre DADO, INFORMAÇÃO e CONHECIMENTO
 
 - **DADOS**: Fatos brutos. Registros;
-- **INFORMAÇÕES**: Coleção de dados organizados de tal modo que eles têm valor, significado e fazem sentido. São **DADOS dentro de um CONTEXTO**;
-- **CONHECIMENTO**: É a INFORMAÇÃO organizada para **TOMADA DE DECISÃO**. São **informações com um PROPÓSITO**.
+- **INFORMAÇÕES**:
+  - É a coleção de dados organizados de tal modo que eles têm valor, significado e fazem sentido;
+  - São **DADOS dentro de um CONTEXTO**;
+- **CONHECIMENTO**:
+  - É a INFORMAÇÃO organizada para **TOMADA DE DECISÃO**;
+  - São **informações com um PROPÓSITO**.
 - **SABEDORIA**: É o **uso do conhecimento**:
   - Com responsabilidade;
   - Dentro de princípios e valores éticos e morais sustentáveis.
