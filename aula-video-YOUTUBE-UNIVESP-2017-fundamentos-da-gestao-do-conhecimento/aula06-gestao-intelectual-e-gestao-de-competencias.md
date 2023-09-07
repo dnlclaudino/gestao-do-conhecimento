@@ -1,0 +1,1 @@
+# Aula 06 - Gestão Intelectual e Gestão de Competências
