@@ -55,7 +55,7 @@ TAKEUCHI, Hirotaka. Criação de conhecimento na empresa. Elsevier Brasil, 2004
 
 ## Ficha Técnica
 
-- Título do vídeo: Playlist "Engenharia de Produção - Gestão do Conhecimento"
+- Título do vídeo: [Playlist "Engenharia de Produção - Gestão do Conhecimento"](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfJ3BzblnmWBeDApWMFevY)
 - Direção: Univesp - Universidade Virtual do Estado de São Paulo
 - Produção: Univesp - Universidade Virtual do Estado de São Paulo
 - Gênero: Univesp - Universidade Virtual do Estado de São Paulo
