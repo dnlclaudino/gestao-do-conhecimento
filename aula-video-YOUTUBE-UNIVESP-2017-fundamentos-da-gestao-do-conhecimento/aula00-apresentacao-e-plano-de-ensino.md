@@ -51,6 +51,8 @@ ROBBINS, Stephen P.; JUDGE, Timothy A. Fundamentos do comportamento organizacion
 
 LAUDON, Kenneth C.; LAUDON, Jane Price. Sistemas de Informação Gerenciais. Pearson.
 
+TAKEUCHI, Hirotaka. Criação de conhecimento na empresa. Elsevier Brasil, 2004
+
 ## Ficha Técnica
 
 - Título do vídeo: Playlist "Engenharia de Produção - Gestão do Conhecimento"

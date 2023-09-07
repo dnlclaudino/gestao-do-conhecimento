@@ -111,8 +111,12 @@ end
     - Sejam MELHORADOS;
     - Efetivamente EMPREGADOS.
 
-<center>
-
-![Figura - Espiral da criação do conhecimento organizacional(NONAKA; TAKEUCHI, 1997)](./figuras/figura-espiral-da-criacao-do-conhecimento-organizacional-NONAKA-TAKEUCHI-1997.png)
-
-</center>
+<center><b>Figura:</b> Espiral da criação do conhecimento nas organizações</center>
+<table align="center" width="650" id="nome-id-unico">
+  <tr>
+    <td align="center">
+      <img src="./figuras/figura-espiral-da-criacao-do-conhecimento-organizacional-NONAKA-TAKEUCHI-1997.png" width="640"><br>
+    </td>
+  </tr>
+</table>
+<center><b>Fonte:</b> TAKEUCHI, Hirotaka. Criação de conhecimento na empresa. Elsevier Brasil, 2004.</center>
