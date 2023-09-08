@@ -64,6 +64,12 @@ graph LR;
     E-->A
 ```
 
+## Fontes
+ 
+| # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
+|:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
+| 1 | Vídeo-Aulas da Disciplina<br>Fundamentos da Gestão<br>do Conhecimento<br>no YOUTUBE |**UNIVESP**<br>[Vídeo-Aulas: Fundamentos da Gestão<br>do Conhecimento](./aula-video-YOUTUBE-UNIVESP-2017-fundamentos-da-gestao-do-conhecimento/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Playlist das Aulas](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfJ3BzblnmWBeDApWMFevY) | - |
+
 ## Gestão de Competências
 
 Toda a minha gestão do conhecimento comunica-se com minha gestão de competências. Minha gestão de competências é orientada por linhas gerais direcionadoras (= política) representadas por declarações escritas a respeito das minhas intenções em relação aos meus conhecimentos, habilidades e atitudes, proporcionando linhas mestras para se atingir os meus objetivos pessoais, profisionais e da organizacção em que atuo, orientando decisões e a formulação de objetivos e elaboração de outras orientações relacionadas à própria gestão do conhecimento e à própria gestão de competências.
