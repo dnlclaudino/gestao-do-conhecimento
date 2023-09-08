@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR;
-  CF[Ciências<br>Formais]-->CC[Ciência da<br>Computação];
+  CF[Computação]-->CC[Ciência da<br>Computação];
         CC-->AC[Arquitetura de<br>Computadores];
         CC-->ALG[Algoritmos];
         CC-->BD[Banco de<br>Dados];
@@ -15,12 +15,6 @@ graph LR;
         CC-->SI[Segurança da<br>Informação];
         CC-->SO[Sistemas<br>Operacionais];
         CC-->TS[Testes de<br>software];
-  CF-->MAT[Matemática];
-       MAT-->CALC[Cálculo];
-       MAT-->GA[Geometria Analítica];
-       MAT-->RL[Raciocínio Lógico<br>e Matemático];
-       MAT-->DO[Dentre Outros...];
-  CF-->ESTAT[Estatística];
 ```
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
