@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR;
-  CF[Computação]-->CC[Ciência da<br>Computação];
+  CC[Computação];
         CC-->AC[Arquitetura de<br>Computadores];
         CC-->ALG[Algoritmos];
         CC-->BD[Banco de<br>Dados];
