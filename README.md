@@ -114,7 +114,7 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-|CIÊNCIAS FORMAIS|[Ciência da Computação](./ciencia-da-computacao.md)|- ( ... )|-|-|
+|CIÊNCIAS FORMAIS|[Computação](./computacao.md)|- ( ... )|-|-|
 |CIÊNCIAS FORMAIS|Matemática|[Estatística](https://github.com/dnlclaudino/estatistica)|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
 |CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
