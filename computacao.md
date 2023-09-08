@@ -1,4 +1,4 @@
-# Ciências da Computação
+# Computação
 
 ```mermaid
 graph LR;
@@ -7,6 +7,7 @@ graph LR;
         CC-->ALG[Algoritmos];
         CC-->BD[Banco de<br>Dados];
         CC-->CD[Ciencia de<br>Dados];
+        CC-->DE[Design Gráfico];
         CC-->ES[Engenharia de<br>Software];
         CC-->LMEP[Linguagens de<br>marcação, estilo<br>e programação];
         CC-->VIRT[Virtualização];
@@ -28,6 +29,7 @@ graph LR;
 |CIÊNCIAS FORMAIS|Ciência da Computação|Algoritmos|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Banco de Dados|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Ciencia de Dados|-|-|
+|CIÊNCIAS FORMAIS|Ciência da Computação|[Design Gráfico](https://github.com/dnlclaudino/design-grafico)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Engenharia de Software e UML](https://github.com/dnlclaudino/engenharia-de-software-e-uml)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|[Linguagens de marcação, estilo e programação](https://github.com/dnlclaudino/linguagens-marcacao-estilo-e-programacao)|-|-|
 |CIÊNCIAS FORMAIS|Ciência da Computação|Virtualização|-|-|
