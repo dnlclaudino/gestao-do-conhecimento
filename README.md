@@ -160,6 +160,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Serviços de TI](https://github.com/dnlclaudino/gerenciamento-de-servicos-de-ti)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[História dos Produtos e das Organizações](https://github.com/dnlclaudino/historia-dos-produtos-e-das-organizacoes)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Logística](https://github.com/dnlclaudino/logistica)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[planejamento](https://github.com/dnlclaudino/planejamento)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Administração Financeira e Orçamentária|-|-|
