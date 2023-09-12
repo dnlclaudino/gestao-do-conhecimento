@@ -1,4 +1,4 @@
-# Gestão de Conhecimento
+# Gestão do Conhecimento
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
@@ -164,7 +164,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|Introdução à Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Administração Financeira e Orçamentária|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|Introdução à Contabilidade|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Ciência Política|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
