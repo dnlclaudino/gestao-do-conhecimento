@@ -153,10 +153,11 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Pessoas > [Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Pessoas](https://github.com/dnlclaudino/gestao-de-pessoas)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos<br>[Meus Projetos e Planos](https://github.com/dnlclaudino/programas-projetos-e-planos)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança de TI|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Serviços de TI](https://github.com/dnlclaudino/gerenciamento-de-servicos-de-ti)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[História dos Produtos e das Organizações](https://github.com/dnlclaudino/historia-dos-produtos-e-das-organizacoes)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Logística](https://github.com/dnlclaudino/logistica)|-|-|
