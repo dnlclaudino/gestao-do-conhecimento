@@ -190,17 +190,22 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
-|1|Atribuições<br>Extraregulamentares<br>da SEINF|Governança e<br> Gestão da Estratégia|-|
-|2|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
-|3|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
-|4|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
-|5|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
-|6|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
-|7|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
-|8|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
-|9|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solunção ou Serviço|-|
-|10|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
-|11|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
+|1|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
+|2|Atribuições<br>regulamentares<br>da SEINF|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
+|3|Atribuições<br>regulamentares<br>da SEINF|Manter os ativos de infraestrutura de TIC.<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
+|4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](tre-pb-seinf-gerenciar-ativos-de-infraestrutura)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
+|5|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a continuidade dos serviços de TIC<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
+|6|Atribuições<br>Extraregulamentares<br>da SEINF|Governança e<br> Gestão da Estratégia|-|
+|7|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
+|8|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|9|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
+|10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
+|11|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
+|12|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|13|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
+|14|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solunção ou Serviço|-|
+|15|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
+|16|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
 ### Concursos Públicos e Certificações
 
