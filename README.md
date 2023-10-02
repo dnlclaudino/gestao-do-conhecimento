@@ -43,25 +43,29 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ```mermaid
 graph LR;
+    INICIO(("Novo<br>Material"))-->A;
     A[Leitura]-->B[Marcação e<br>Anotação na<br>Fonte Escrita];
-    B-- Em fonte do<br>repositório -->C[Resumo];
+    B-->BB["Criar Nova<br>Fonte"]-- Em fonte do<br>repositório -->C[Fazer Resumo];
     C-->D[Resenha];
     D--Commits<br>Reiterados-->C;
     D-->A;
     D-->E[Apresentação em<br>Marp/Slide.dev];
-    E-->A
+    E-->A;
+    E-->FIM(("Conclusão"))
 ```
 
 ### Quando a Fonte NÃO É ESCRITA
 
 ```mermaid
 graph LR;
-    A[Assistir]-- Em fonte do<br>repositório -->C[Resumo];
+    INICIO(("Novo<br>Material"))-->A;
+    A[Assistir]-->BB["Criar Nova<br>Fonte"]-- Em fonte do<br>repositório -->C[Fazer<br>Resumo];
     C-->D[Resenha];
     D--Commits<br>Reiterados-->C
     D-->A
     D-->E[Apresentação em<br>Marp/Slide.dev];
     E-->A
+    E-->FIM(("Conclusão"))
 ```
 
 ## Fontes
