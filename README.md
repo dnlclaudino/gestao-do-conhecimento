@@ -190,7 +190,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
 
-### Trabalho
+### Conhecimentos Relacionados ao Trabalho
 
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
@@ -200,16 +200,17 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-ativos-de-infraestrutura)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
 |5|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a continuidade dos serviços de TIC<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
 |6|Atribuições<br>Extraregulamentares<br>da SEINF|Governança e<br> Gestão da Estratégia|-|
-|7|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
+|7|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
 |8|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
-|9|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
-|10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
-|11|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
-|12|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
-|13|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
-|14|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solunção ou Serviço|-|
-|15|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
-|16|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
+|9|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
+|10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|11|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
+|12|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
+|13|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
+|14|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
+|15|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
+|16|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
+|17|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
 ### Concursos Públicos e Certificações
 
