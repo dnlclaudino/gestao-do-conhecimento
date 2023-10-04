@@ -205,7 +205,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |9|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
 |10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
 |11|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
-|12|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Contratos e ARPs|-|
+|12|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão de Contratos e ARPs](https://github.com/dnlclaudino/gestao-de-contratos-e-arps)|-|
 |13|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
 |14|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
 |15|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
@@ -247,6 +247,7 @@ São recursos adicionais utilizados nos resumos
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
 |<br>**MARP.app**|Outra ferramenta de elaboração de slides que permite versionamento e a separação entre a camada de conteúdo e a camada de apresentação|
+|<br>**Mermaid**|Recurso para criar diagramas usando Markdown|
 |<br>**Power Point**|Apresentações elaboradas com o software **Power Point** da Microsoft|
 |<br>**Mesa Digitalizadora**<br>**One by Wacom**|Desenhos e anotações em formato PNG construídas à mão livre, feitas com a mesa digitalizadora da Wacom.|
 
