@@ -195,8 +195,8 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |:---|:---|:---|:---|
 |1|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
 |2|Atribuições<br>regulamentares<br>da SEINF|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
-|3|Atribuições<br>regulamentares<br>da SEINF|Manter os ativos de infraestrutura de TIC.<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
-|4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-ativos-de-infraestrutura)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
+|3|Atribuições<br>regulamentares<br>da SEINF|[Manter os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
+|4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
 |5|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a continuidade dos serviços de TIC<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
 |6|Atribuições<br>Extraregulamentares<br>da SEINF|Governança e<br> Gestão da Estratégia|-|
 |7|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
