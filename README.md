@@ -203,18 +203,19 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |8|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
 |9|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
-#### Gestão do Conhecimentos Relacionados ao Trabalho: PROVER MEIOS ADMINISTRATIVOS PARA REALIZAÇÃO DAS ATRIBUIÇÕES REGULAMENTARES
+#### Gestão do Conhecimentos Relacionados ao Trabalho: Prover Meios Administrativos Para Realização Das Atribuições Regulamentares
 
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
-|1|Atribuições<br>Extraregulamentares<br>da SEINF|[Governança e<br> Gestão da Estratégia](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|2|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
-|3|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão do Orçamento](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|4|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão do Patrimônio](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|5|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão da Integridade](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|6|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão de Aquisições](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|7|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão de Contratos e ARPs](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
-|8|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão de Riscos](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|1|Processo de Trabalho Administrativos|[Gestão de Demandas](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|2|Processo de Trabalho Administrativos|[Governança e<br> Gestão da Estratégia](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|3|Processo de Trabalho Administrativos|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
+|4|Processo de Trabalho Administrativos|[Gestão do Orçamento](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|5|Processo de Trabalho Administrativos|[Gestão do Patrimônio](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|6|Processo de Trabalho Administrativos|[Gestão da Integridade](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|7|Processo de Trabalho Administrativos|[Gestão de Aquisições](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|8|Processo de Trabalho Administrativos|[Gestão de Contratos e ARPs](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
+|9|Processo de Trabalho Administrativos|[Gestão de Riscos](https://github.com/dnlclaudino/tre-pb-seinf-processos-de-trabalho-administrativos#readme)|-|
 
 ### Concursos Públicos e Certificações
 
