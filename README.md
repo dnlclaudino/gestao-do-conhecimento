@@ -202,7 +202,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |7|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
 |8|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
 |9|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Patrimônio|-|
-|10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão do Orçamento|-|
+|10|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão da Integridade|-|
 |11|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Aquisições|-|
 |12|Atribuições<br>Extraregulamentares<br>da SEINF|[Gestão de Contratos e ARPs](https://github.com/dnlclaudino/gestao-de-contratos-e-arps)|-|
 |13|Atribuições<br>Extraregulamentares<br>da SEINF|Gestão de Riscos|-|
