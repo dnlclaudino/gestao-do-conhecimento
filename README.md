@@ -191,19 +191,21 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 
 ### Gestão do Conhecimentos Relacionados ao Trabalho
 
+#### Processos de Trabalho Regulamentares
+
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
 |1|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
 |2|Atribuições<br>regulamentares<br>da SEINF|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
 |3|Atribuições<br>regulamentares<br>da SEINF|[Manter os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
 |4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
-|5|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a continuidade dos serviços de TIC<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
+|5|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar a continuidade dos serviços de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-continuidade-servicos-tic#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
 |6|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
 |7|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
 |8|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
 |9|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
-#### Gestão do Conhecimentos Relacionados ao Trabalho: Prover Meios Administrativos Para Realização Das Atribuições Regulamentares
+#### Processos de Trabalho Prover Meios Administrativos Para Realização Das Atribuições Regulamentares
 
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
