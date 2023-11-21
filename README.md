@@ -179,7 +179,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica/tree/master)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Literatura](https://github.com/dnlclaudino/literatura)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
