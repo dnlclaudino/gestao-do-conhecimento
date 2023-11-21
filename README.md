@@ -189,7 +189,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
 
-### Gestão do Conhecimentos Relacionados ao Trabalho
+### Gestão dos Conhecimentos Relacionados ao Trabalho
 
 #### Processos de Trabalho Regulamentares
 
