@@ -102,8 +102,8 @@ A ciência engloba um vasto conjunto de conhecimentos organizados, que se distri
 ```mermaid
 graph LR;
 A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
-  A-->CN[Ciências<br>Naturais];
   A-->CHS[Ciências<br>Humanas e<br>Sociais]
+  A-->CN[Ciências<br>Naturais];
   A-->PRO[Trabalho];
   A-->CERT[Certificações];
   A-->CP[Concursos<br>Públicos];
@@ -111,44 +111,6 @@ A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
 ```
 
 Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
-
-### Ciências Formais
-
-Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
-
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS FORMAIS|[Computação](./computacao.md)|- ( ... )|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Estatística](https://github.com/dnlclaudino/estatistica)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Ensino Fundamental](https://github.com/dnlclaudino/matematica-ensino-fundamental)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Ensino Médio](https://github.com/dnlclaudino/matematica-ensino-medio)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico)|-|-|
-
-### Ciências Naturais
-
-Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
-
-```mermaid
-graph LR;
-  CN[Ciências<br>Naturais]-->F[Física];
-        CN-->Q[Química];
-        CN-->B[Biologia];
-```
-
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 1](https://github.com/dnlclaudino/fisica-1)|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 2](https://github.com/dnlclaudino/fisica-2)|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 3](https://github.com/dnlclaudino/fisica-3)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 1](https://github.com/dnlclaudino/quimica-1)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 2](https://github.com/dnlclaudino/quimica-2)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 3](https://github.com/dnlclaudino/quimica-3)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 1](https://github.com/dnlclaudino/biologia-1)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
 
 ### Ciências Humanas e Sociais
 
@@ -199,6 +161,45 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
+
+### Ciências Formais
+
+Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS FORMAIS|[Computação](./computacao.md)|- ( ... )|-|-|
+|CIÊNCIAS FORMAIS|Matemática|[Estatística](https://github.com/dnlclaudino/estatistica)|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
+|CIÊNCIAS FORMAIS|Matemática|[Ensino Fundamental](https://github.com/dnlclaudino/matematica-ensino-fundamental)|-|-|
+|CIÊNCIAS FORMAIS|Matemática|[Ensino Médio](https://github.com/dnlclaudino/matematica-ensino-medio)|-|-|
+|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
+|CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico)|-|-|
+
+### Ciências Naturais
+
+Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
+
+```mermaid
+graph LR;
+  CN[Ciências<br>Naturais]-->F[Física];
+        CN-->Q[Química];
+        CN-->B[Biologia];
+```
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 1](https://github.com/dnlclaudino/fisica-1)|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 2](https://github.com/dnlclaudino/fisica-2)|-|-|
+|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 3](https://github.com/dnlclaudino/fisica-3)|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 1](https://github.com/dnlclaudino/quimica-1)|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 2](https://github.com/dnlclaudino/quimica-2)|-|-|
+|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 3](https://github.com/dnlclaudino/quimica-3)|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 1](https://github.com/dnlclaudino/biologia-1)|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
+|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
+
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
