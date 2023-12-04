@@ -130,7 +130,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Planejamento](https://github.com/dnlclaudino/planejamento)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política|(...)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política e Teoria Geral do Estado|(...)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Civil|-|-|
