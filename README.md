@@ -104,6 +104,7 @@ graph LR;
 A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
   A-->CF[Ciências<br>Formais];
   A-->CN[Ciências<br>Naturais];
+  A-->CS[Ciências da Saúde];
   A-->PRO[Trabalho];
   A-->CERT[Certificações];
   A-->CP[Concursos<br>Públicos];
@@ -150,15 +151,23 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Literatura](https://github.com/dnlclaudino/literatura)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
+
+#### Outras Áreas de Humanas: Linguística
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Literatura](https://github.com/dnlclaudino/literatura)|-|-|
+
+#### Outras Áreas de Humanas
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
+
+|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 
 ### Ciências Formais
 
@@ -175,7 +184,7 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 |CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
 |CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico)|-|-|
 
-### Ciências Naturais
+### Ciências Naturais e da Saúde
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
 
@@ -198,6 +207,11 @@ graph LR;
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
 
+### Ciências da Saúde
+
+|CIÊNCIAS DA SAÚDE|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
+|CIÊNCIAS DA SAÚDE|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
+|CIÊNCIAS DA SAÚDE|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
