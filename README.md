@@ -101,8 +101,8 @@ A ciência engloba um vasto conjunto de conhecimentos organizados, que se distri
 
 ```mermaid
 graph LR;
-A[Gestão do<br>Conhecimento ]-->CF[Ciências<br>Formais];
-  A-->CHS[Ciências<br>Humanas e<br>Sociais]
+A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
+  A-->CF[Ciências<br>Formais];
   A-->CN[Ciências<br>Naturais];
   A-->PRO[Trabalho];
   A-->CERT[Certificações];
