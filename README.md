@@ -130,19 +130,18 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Planejamento](https://github.com/dnlclaudino/planejamento)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Ciência Política e Teoria Geral do Estado|(...)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|[Ciência Política e Teoria Geral do Estado](https://github.com/dnlclaudino/ciencia-politica-e-tge#readme)|(...)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Civil|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Constitucional|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Civil]https://github.com/dnlclaudino/direito-civil#readme|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Constitucional](https://github.com/dnlclaudino/direito-constitucional#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Empresarial|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Humanos|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Penal|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Penal](https://github.com/dnlclaudino/direito-penal#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Trabalhista|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Filosofia do Direito|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Hermenêutica Jurídica|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Introdução ao Estudo do Direito|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Licitações e Contratos|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Introdução ao Estudo do Direito](https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Sociologia Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Psicologia Jurídica|-|-|
