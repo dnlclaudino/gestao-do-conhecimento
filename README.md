@@ -73,7 +73,7 @@ graph LR;
     E-->FIM(("Conclusão"))
 ```
 
-## Fontes
+## Fontes deste Repositório
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
@@ -102,11 +102,12 @@ Todo os conhecimentos que foram considerados relevantes para minha gestão do co
   </tr>
 </table>
 
-A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023].
+A ciência engloba um vasto conjunto de conhecimentos organizados, que se distribuem em três ramos principais[^CONCEITOS-DO-MUNDO-2023]. Atendendo ao que entendo ser o melhor critério atual de classificação, a minha gestão de conhecimento, será dividida da seguinte forma:
 
 ```mermaid
 graph LR;
 A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
+    CHS-->BD[Bacharelado em Direito<br>2024]
   A-->CF[Ciências<br>Formais];
   A-->CN[Ciências<br>Naturais];
   A-->CS[Ciências da Saúde];
@@ -115,8 +116,6 @@ A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
   A-->CP[Concursos<br>Públicos];
   A-->RCRB[Repositório Central<br>de Referências<br>Bibliográficas]
 ```
-
-Para viabilizar e facilitar a gestão do conhecimento, todo o material será produzido, alocado e mantido seguinto a seguinte esquematização:
 
 ### Ciências Humanas e Sociais
 
@@ -158,6 +157,10 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
+
+#### Bacharelado em Direito
+
+Clique no link indicado ao lado para acessar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme).
 
 #### Outras Áreas de Humanas: Linguística
 
