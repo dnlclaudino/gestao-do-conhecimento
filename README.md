@@ -134,7 +134,7 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|[Ciência Política e Teoria Geral do Estado](https://github.com/dnlclaudino/ciencia-politica-e-tge#readme)|(...)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Civil]https://github.com/dnlclaudino/direito-civil#readme|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Civil](https://github.com/dnlclaudino/direito-civil#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Constitucional](https://github.com/dnlclaudino/direito-constitucional#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Empresarial|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Humanos|-|-|
@@ -143,16 +143,16 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Filosofia do Direito|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Hermenêutica Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Introdução ao Estudo do Direito](https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Sociologia Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Psicologia Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Teoria Geral do Processo|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Economia|Economia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
 
 #### Outras Áreas de Humanas: Linguística
 
