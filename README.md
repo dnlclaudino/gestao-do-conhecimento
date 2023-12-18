@@ -226,6 +226,8 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 
 ### Ciências da Saúde
 
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
 |CIÊNCIAS DA SAÚDE|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
