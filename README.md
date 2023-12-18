@@ -1,9 +1,18 @@
 # Gestão do Conhecimento
 
 <table align="right">
- <tr> <td align="center"><a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"></a></td></tr>
- <tr> <td align="center">Baixar<br>em PDF</td></tr>
-</table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
+    </td>
+    <!--
+      <td align="center">
+        <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+        </a>
+      </td>
+    -->
+  </tr>
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
