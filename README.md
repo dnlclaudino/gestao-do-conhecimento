@@ -213,13 +213,6 @@ Ao contrário das ciências naturais, as formais não se dedicam ao estudo da na
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
 
-```mermaid
-graph LR;
-  CN[Ciências<br>Naturais]-->F[Física];
-        CN-->Q[Química];
-        CN-->B[Biologia];
-```
-
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 1](https://github.com/dnlclaudino/fisica-1)|-|-|
@@ -254,19 +247,9 @@ graph LR;
 |8|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
 |9|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
 
-#### Processos de Trabalho Prover Meios Administrativos Para Realização Das Atribuições Regulamentares
+#### Macroprocessos de Trabalho: Processos de Trabalho Administrativos
 
-|#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
-|:---|:---|:---|:---|
-|1|Processo de Trabalho Administrativos|[Gestão de Demandas](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|2|Processo de Trabalho Administrativos|[Governança e<br> Gestão da Estratégia](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|3|Processo de Trabalho Administrativos|[Gestão Documental e da Memória](https://github.com/dnlclaudino/gestao-documental-e-da-memoria)|-|
-|4|Processo de Trabalho Administrativos|[Gestão do Orçamento](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|5|Processo de Trabalho Administrativos|[Gestão do Patrimônio](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|6|Processo de Trabalho Administrativos|[Gestão da Integridade](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|7|Processo de Trabalho Administrativos|[Gestão de Aquisições](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|8|Processo de Trabalho Administrativos|[Gestão de Contratos e ARPs](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|9|Processo de Trabalho Administrativos|[Gestão de Riscos](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
+Acesse o repositório [Processo de Trabalho Administrativos](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme).
 
 ### Concursos Públicos e Certificações
 
