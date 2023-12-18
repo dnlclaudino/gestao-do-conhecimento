@@ -13,6 +13,7 @@
       </td>
     -->
   </tr>
+</table><br><br><br>
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
