@@ -190,7 +190,6 @@ Clique no link indicado ao lado para acessar todo o material relacionado com o c
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
-
 |CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
 
