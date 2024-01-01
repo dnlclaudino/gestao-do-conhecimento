@@ -187,9 +187,9 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
 
-#### Bacharelado em Direito
+### Bacharelado em Direito
 
-Clique no link indicado ao lado para acessar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme).
+Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme), eles foram agrupados nesse local específico.
 
 #### Outras Áreas de Humanas: Linguística
 
