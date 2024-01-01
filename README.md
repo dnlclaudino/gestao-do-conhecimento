@@ -150,6 +150,8 @@ A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
 
 Também conhecido como ciências humanas, este conjunto de disciplinas se dedica ao estudo da humanidade, mas preservando uma perspectiva empírica, crítica, orientada pelo método científico. Está, bem, afastado das humanidades e do mundo da subjetividade, mas também do mundo experimental, recorrendo antes à estatística, à transdisciplinaridade e à análise do discurso . Exemplos deste tipo de ciência são: sociologia , antropologia , ciência política , economia , geografia , etc.
 
+Os repositório relacionados com o Direito, foram separados a parte para facilitar sua organização e localização.
+
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
@@ -165,6 +167,17 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Economia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
+
+#### Direito
+
+|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
+|:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Ciência Política e Teoria Geral do Estado](https://github.com/dnlclaudino/ciencia-politica-e-tge#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Civil](https://github.com/dnlclaudino/direito-civil#readme)|-|-|
@@ -180,16 +193,6 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Sociologia Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Psicologia Jurídica|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Direito|Teoria Geral do Processo|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Economia|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
-
-### Bacharelado em Direito
-
-Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme), eles foram agrupados nesse local específico.
 
 #### Outras Áreas de Humanas: Linguística
 
@@ -204,6 +207,10 @@ Em razão da quantidade e complexidade de subrepositórios necessários para org
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
+
+### Bacharelado em Direito
+
+Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme), eles foram agrupados nesse local específico.
 
 ### Ciências Formais
 
