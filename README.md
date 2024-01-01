@@ -315,7 +315,7 @@ São recursos adicionais utilizados nos resumos
 
 1. O primeiro nível do repositório corresponderá a um tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática;
     - No primeiro nível será criado o arquivo “README.md” contendo um documento markdown de sumário contendo manifesto (o que o repositório contém), uma tabela com as versões com descrições (TAGS) e outra tabela com as relações de partes do do resumo com seus respectivos links ;
-2. O segundo nível na hierarquia do repositório será a FONTE do material a ser resumido (livro, artigo, dissertação, monografia, site, manual,plano, norma [lei, decreto,portaria, resolução, regimento-interno, regulamento] , notas-de-aula, resumo-de-terceiros, curso, workshop, vídeo-aula, podcast, slide, etc)
+2. O segundo nível na hierarquia do repositório será a FONTE do material a ser resumido (livro, artigo, dissertação, monografia, site, manual,plano, norma [lei, decreto,portaria, resolução, regimento interno, regulamento] , notas-de-aula, resumo-de-terceiros, curso, workshop, vídeo, video youtube, podcast, slide, etc)
 
 ```mermaid
 graph LR;
@@ -324,21 +324,26 @@ F-->A[artigo];
 F-->D[dissertação];
 F-->M[monografia];
 F-->S[site];
+F-->BLOG[Blog];
 F-->MAN[manual];
 F-->P[plano];
 F-->NOR[norma];
   NOR--> LEI[lei];
   NOR--> DEC[decreto];
+  NOR--> DECLEI[decreto-lei];
   NOR-->PORT[portaria];
+  NOR-->IN[Instrução Normativa];
   NOR--> RES[resolução];
-  NOR-->RI[regimento-interno];
+  NOR-->RI[regimento];
   NOR-->REG[regulamento];
+  NOR-->RET["(...)"];
 F-->NOT[notas de aula];
 F-->R[resumo-de-terceiros];
 F-->C[curso];
 F-->T[treinamento];
 F-->W[workshop];
-F-->V[vídeo-aula];
+F-->V[vídeo];
+F-->Y[Vídeo do Youtube];
 F-->POD[podcast];
 F-->SL[slide];
 ```
