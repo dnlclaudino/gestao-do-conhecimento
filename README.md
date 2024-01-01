@@ -136,6 +136,7 @@ A ciência engloba um vasto conjunto de conhecimentos organizados, que se distri
 ```mermaid
 graph LR;
 A[Gestão do<br>Conhecimento ]-->CHS[Ciências<br>Humanas e<br>Sociais]
+    CHS-->D[Direito]
     CHS-->BD[Bacharelado em Direito<br>2024]
   A-->CF[Ciências<br>Formais];
   A-->CN[Ciências<br>Naturais];
