@@ -28,14 +28,19 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |:---:|:---:|:---:|:---|
 |Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
 
-## Sobre
+## Sobre mim
 
 <table align="center" border="0">
 <tr>
   <td align="center">
-     <img src="https://github.com/dnlclaudino/imagens//blob/master/gestao-do-conhecimento/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png?raw=true" width="80" height="80"><br>
-    <b>Daniel Claudino</b></td>
-  <td align="center"><a href="https://github.com/dnlclaudino/curriculum-vitae">Portfólio <br> Curriculum Vitae</a></td>
+      <a href=https://dnlclaudino.github.io/">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png?raw=true" width="80" height="80"><br>
+    <b>Daniel Claudino<br>( Página Pessoal )</a></b></td>
+  <td align="center">
+    <a href="https://github.com/dnlclaudino/curriculum-vitae#readme">
+    <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/dossie.png?raw=true" heigh="60" width="60"><br>Curriculum Vitae</a>
+  </td>
+
 </tr>
 </table>
   
@@ -104,12 +109,14 @@ Para mais detalhes acesse minha política de gestão de competências no reposit
 
 ## Áreas para Minha Gestão do Conhecimento
 
-Todo os conhecimentos que foram considerados relevantes para minha gestão do conhecimento e minha gestão de competências pessoal, profissional e organizacional em que atuo são relacionados abaixo. Pretende-se realizar um trabalho contínuo de revisão e aperfeiçoamento para que ela seja categorizada cada vez mais de forma técnica.
+Todo os conhecimentos que foram considerados relevantes para minha gestão do conhecimento e minha gestão de competências pessoal, profissional e organizacional em que atuo são relacionados abaixo.
+
+Pretende-se realizar um trabalho contínuo de revisão e aperfeiçoamento para que ela seja categorizada cada vez mais de forma técnica.
 
 <table>
   <tr>
     <td align="center">
-       <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/icone-atencao.png" heigh="80" width="80"><br>
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
        <b>Atenção</b>
     </td>
     <td valign="top">
