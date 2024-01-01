@@ -33,7 +33,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 <table align="center" border="0">
 <tr>
   <td align="center">
-     <img src="https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/figuras/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png" width="80" height="80"><br>
+     <img src="https://github.com/dnlclaudino/imagens//blob/master/gestao-do-conhecimento/FOTO_PERFIL_DANIEL_CLAUDINO_2023_REDONDA.png?raw=true" width="80" height="80"><br>
     <b>Daniel Claudino</b></td>
   <td align="center"><a href="https://github.com/dnlclaudino/curriculum-vitae">Portfólio <br> Curriculum Vitae</a></td>
 </tr>
@@ -56,8 +56,8 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
 |1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
-|2|#6|Desenvolver texto apresenta a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
-|3|#1,#2,#3,#5 e #7|Desenvolver apresentações (Marp/Slide.dev/PPTXs) do material produzido|
+|2|#6|Desenvolver texto apresentando a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
+|3|#1,#2,#3,#5 e #7|Desenvolver apresentação (Marp/Slide.dev/PPTXs) para facilitar a comunicação e compreensão desta gestão do conhecimento.|
 
 ## Trilha de Aprendizagem
 
