@@ -56,13 +56,16 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |6|Identificar e explicitar as competências organizacionais, individuais e gerenciais adquiridas com minha gestão do conhecimento|
 |7|Contribuir no desenvolvimento de pessoas e organizações|
 
-## Objetivos
+## "Objetivos"
 
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
 |1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
 |2|#6|Desenvolver texto apresentando a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
 |3|#1,#2,#3,#5 e #7|Desenvolver apresentação (Marp/Slide.dev/PPTXs) para facilitar a comunicação e compreensão desta gestão do conhecimento.|
+|4|(...)|(...)|
+
+- Mais **OBJETIVOS** serão formalmente apontados na medida em que os trabalhos de gestão do conhecimento forem avançando.
 
 ## Trilha de Aprendizagem
 
@@ -96,6 +99,8 @@ graph LR;
 ```
 
 ## Fontes deste Repositório
+
+Esse repositório foi construído com base no conhecimento adquirido principalmente das fontes relacionadas abaixo:
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
