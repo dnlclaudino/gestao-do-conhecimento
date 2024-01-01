@@ -409,7 +409,25 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 
 * Se após eu fizer um resumo de um manual do TCU sobre gestão de riscos (uma versão MAJOR), eu fizer um outro resumo sobre o mesmo tema (gestão de riscos) de um manual de gestão de riscos do CNJ (outra versão MAJOR acrescentada).
 
-## Regras para nomenclatura de fontes
+## Regras para cada Repositório ou Subrepositório
+
+1. No arquivo **README.md** de cada **REPOSITÓRIO**, logo no início e antes do seu título, deve constar os ícones e links abaixo:
+
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"></a><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
+## Regras para Fontes e sua Nomenclatura
 
 1. Todas as letras em minúscula;
 2. As palavras não devem conter acentos diacríticos (agudo, circunflexo,crase,etc);
@@ -438,6 +456,50 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
         - manual-CNJ-2020-manual-de-digitalizacao-de-documentos
         - manual-TSE-2021-manual-de-gestao-documental
         - manual-TSE-2021-manual-de-digitalizacao-de-documentos
+6. No arquivo **README.md** de cada **FONTE**, logo no início e antes do seu título, deve constar os ícones e links abaixo:
+
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
+## Regra para Cada Arquivo .MD de uma FONTE
+
+1. No arquivo **NOME-DO-ARQUIVO.md**, em cada **ARQUIVO** de cada **FONTE**, logo no início e **DEPOIS** do seu título, deve constar os ícones e links abaixo:
+
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito/tree/master/livro-NADER-2016-introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 
 ## Regras para nomenclatura de pastas e documentos de resumo
 
