@@ -317,6 +317,10 @@ São recursos adicionais utilizados nos resumos
     - No primeiro nível será criado o arquivo “README.md” contendo um documento markdown de sumário contendo manifesto (o que o repositório contém), uma tabela com as versões com descrições (TAGS) e outra tabela com as relações de partes do do resumo com seus respectivos links ;
 2. O segundo nível na hierarquia do repositório será a FONTE do material a ser resumido (livro, artigo, dissertação, monografia, site, manual,plano, norma [lei, decreto,portaria, resolução, regimento interno, regulamento] , notas-de-aula, resumo-de-terceiros, curso, workshop, vídeo, video youtube, podcast, slide, etc)
 
+<center>
+
+<p name="figura-hierarquia-de-fontes-neste-repositorio"><b>Figura:</b> hierarquia de fontes neste repositório</p>
+
 ```mermaid
 graph LR;
 F[Fonte]-->L[livro];
@@ -332,40 +336,42 @@ F-->NOR[norma];
   NOR--> DEC[decreto];
   NOR--> DECLEI[decreto-lei];
   NOR-->PORT[portaria];
-  NOR-->IN[Instrução Normativa];
+  NOR-->IN[instrução-normativa];
   NOR--> RES[resolução];
   NOR-->RI[regimento];
   NOR-->REG[regulamento];
   NOR-->RET["(...)"];
-F-->NOT[notas de aula];
+F-->NOT[notas-de-aula];
 F-->R[resumo-de-terceiros];
 F-->C[curso];
 F-->T[treinamento];
 F-->W[workshop];
 F-->V[vídeo];
-F-->Y[Vídeo do Youtube];
+F-->Y[vídeo do youtube];
 F-->POD[podcast];
 F-->SL[slide];
 ```
+</center>
+
 3. Outras Orientações:
     - Cada pasta FONTE conterá um arquivo README.md contendo sumário com (o que o FONTE contém) e uma tabela com as relações de partes do do resumo com - seus respectivos links;
     - Cada pasta FONTE conterá pastas para os RECURSOS agregados aos resumos e conhecimento registrados:
-    - Uma pasta chamada “figuras” para armazenar imagens a serem utilizadas no terceiro nível;
+    - Uma pasta chamada “figuras” para armazenar imagens a serem utilizadas nesse terceiro nível;
     - Uma pasta chamada “planilhas” para armazenar planilhas eletrônicas
-    - Uma pasta chamada "código-fonte" para armazenar códigos-fonte;
+    - Uma pasta chamada "codigo-fonte" para armazenar códigos-fonte;
     - Obs: podem haver outras pastas para armazenar outros RECURSOS, devendo ser seguido as regras de nomenclatura de PASTAS explicitadas mais adiante;
 
 4. O terceiro nível na hierarquia do repositório conterá pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown (*.MD)
 
-## Fluxo de trabalho para elaboração de resumos
+## Fluxo Principal de Trabalho para Elaboração de Resumos e Resenhas
 
-Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter resumos.
+Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter resumos e resenhas.
 
-1. Deve-se identificar o tema, assunto, disciplina, tecnologia, metodologia, método, boa prática a ser resumida (veja lista em XXXXXX na forma de mapa mental);
+1. Deve-se identificar o tema, assunto, disciplina, tecnologia, metodologia, método a ser resumido(a) ou resenhado(a).
 2. Verificar se já existe um repositório (Github) para o resumo
-    - Caso não exista, criar um repositório no Github;
+    - Caso não exista, criar um subrepositório no Github;
     - Mantenha o padrão da gestão do conhecimento, incluindo seção "**Versão da Política de Gestão do Conhecimento**" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
-    - Incluir seção "**Relação das Compatências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
+    - Incluir seção "**Relação das Competências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
     - Incluir seção "**Licença**" seguindo as orientações abaixo:
       - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, **desde que atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as novas criações sob termos idênticos."
       - Você tem os seguintes direitos:
@@ -377,29 +383,39 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
         - Compartilha Igual — Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.
       - Normalmente, sigo a licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
       - Incluir o HTML abaixo em cada FONTE e no REPOSITÓRIO:
+
+<center>
 <table width="350px">
 <tr>
-
 <td align="center">
-  
+ 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">A <b>Gestão do Conhecimento</b></span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dnlclaudino/gestao-do-conhecimento" property="cc:attributionName" rel="cc:attributionURL">Daniel Claudino</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
-
 </td>
-  
 </tr>
 </table>
+</center>
   
 3. Verificar se já existe a FONTE no repositório (Github) para o resumo
-    - Caso não exista, criar a FONTE dentro do repositório;
-4. Organizar o repositório em pastas para cada capítulo, unidade, artigo, documento, etc a ser resumido em um arquivo markdown próprio;
-5. O repositório do github deve conter
-    - Um Branch chamada master para a versão final dos documentos (arquivos)
-    - Deve ser criada uma branch chamada desenvolvimento-’nome-da-fonte’-’nome-do-capitulo/unid.parte’ para adição, alteração, remoção de texto do resumo
-    - Não modificar diretamente a branch master !
-6. Após a revisão do texto elaborado na branch desenvolvimento-’nome-da-fonte’-’nome-do-capitulo/unid.parte’’ , deve ser feito um merge com a branch master;
-7. Após a conclusão do resumo de uma capítulo, unidade, parte do documento, etc:
+    - Caso não exista, **criar a FONTE** dentro do repositório;
+    - Para NOMEAR a FONTE siga o padrao da <a href="#figura-hierarquia-de-fontes-neste-repositorio">hierarquia de fontes neste repositório</a>
+4. Organizar CADA FONTE do repositório em ARQUIVOS (*.md). Um arquivo para cada capítulo, unidade, artigo, documento, etc a ser resumido;
+
+    - Cada arquivo markdown (*.md) da FONTE deve segui a seguinte estrutura padrão:
+
+![Estrutura padrão de um arquivo markdown de uma fonte](https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/capitulo-estrutura-padrao.png?raw=true)
+
+- Deve-se seguir esse mesmo modelo de estrutura para um QUALQUER PARTE DE UMA FONTE qualquer que seja a sua denominação (seção, unidade, topico, etc...)
+- Existe um GIST para os 03 icones que aparecem em todo início de arquivo markdown (*.md)
+  - **Nome do Gist**: <a href="https://gist.github.com/dnlclaudino/cfe4f3be999afef36e720a7265a86b58">fonte-icones-no-inicio-arquivo.md</a>
+  
+1. O repositório do github deve conter
+    - Um BRANCH chamada master para a versão final dos documentos (arquivos)
+    - Deve ser criada uma branch chamada **redacao-’nome-da-fonte’-’nome-do-capitulo-unid-ou-parte’** para adição, alteração, remoção de texto do resumo
+    - <u>**Não modificar diretamente a branch master !**</u>
+2. Após a revisão do texto elaborado na branch desenvolvimento-’nome-da-fonte’-’nome-do-capitulo/unid.parte’’ , deve ser feito um merge com a branch master;
+3. Após a conclusão do resumo de uma capítulo, unidade, parte do documento, etc:
     - Deve ser criado uma TAG no repositório com o número da versão e descrição do que foi resumido;
-      - Obs: Seguir regras de versionamento semântico deste documento para denominação das TAGS
+      - Obs: Seguir **regras de versionamento semântico** deste documento para denominação das TAGS
     - O arquivo “README.md” deve ser atualizado;
 
 
