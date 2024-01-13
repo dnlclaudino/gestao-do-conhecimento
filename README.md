@@ -282,20 +282,6 @@ Acesse o repositório [Processo de Trabalho Administrativos](https://github.com/
 
 Serão utilizados os ícones do [repositório público imagens](https://github.com/dnlclaudino/imagens) em todo o material produzido nesta **gestão do conhecimento**:
 
-Segue abaixo modelo para utilização ods ícones lembrando que **o texto que acompanha os ícones** deve manter relação com o **tipo de ícone** utilizado.
-
-<table>
-  <tr>
-    <td align="center">
-       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
-       <b>Não Cometa<br>Erros</b>
-    </td>
-    <td valign="top">
-      Não confunda <b>atos administrativos</b> com <b>atos da administração</b>, para mais informações veja "<a href="#atos-privados-praticados-pela-administração">Atos Privados Praticados Pela Administração</a>"
-    </td>
-  </tr>
-</table>
-
 ## Recursos Adicionais
 
 São recursos adicionais utilizados nos resumos
@@ -372,7 +358,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Caso não exista, criar um subrepositório no Github;
     - Mantenha o padrão da gestão do conhecimento, incluindo seção "**Versão da Política de Gestão do Conhecimento**" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
     - Incluir seção "**Relação das Competências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
-    - Incluir seção "**Licença**" seguindo as orientações abaixo:
+    - Incluir seção "**Navegação nos arquivos deste repositório**"
+      - Incluir texto: "Este repositório segue as regras estabelecidas na **Gestão do conhecimento** na seção [Regras para cada Repositório ou Subrepositório](https://github.com/dnlclaudino/gestao-do-conhecimento?tab=readme-ov-file#regras-para-cada-reposit%C3%B3rio-ou-subreposit%C3%B3rio)"
+      - Incluir texto conforme o repositório: "Os arquivos PDFs do atual repositório ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**"."
+    - Incluir seção "**Referências Bibliográficas**" no final do arquivo README.md do repositório:
+      - Incluir o seguinte texto: "As referências bibliográficas das fontes deste repositório encontram-se no [Repositório Central de Referências Bibliográficas](https://github.com/dnlclaudino/repositorio-central-referencias-bibliograficas/tree/master)."
+    - Incluir seção "**Licença**" antes da seção "Referências Bibliográficas":
       - O texto-padrão: "Este material está sob licença [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR): esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, **desde que atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as novas criações sob termos idênticos."
       - Você tem os seguintes direitos:
         - Compartilhar: copiar e redistribuir o material em qualquer suporte ou formato
@@ -395,10 +386,10 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 </table>
 </center>
   
-3. Verificar se já existe a FONTE no repositório (Github) para o resumo
+1. Verificar se já existe a FONTE no repositório (Github) para o resumo
     - Caso não exista, **criar a FONTE** dentro do repositório;
     - Para NOMEAR a FONTE siga o padrao da <a href="#figura-hierarquia-de-fontes-neste-repositorio">hierarquia de fontes neste repositório</a>
-4. Organizar CADA FONTE do repositório em ARQUIVOS (*.md). Um arquivo para cada capítulo, unidade, artigo, documento, etc a ser resumido;
+2. Organizar CADA FONTE do repositório em ARQUIVOS (*.md). Um arquivo para cada capítulo, unidade, artigo, documento, etc a ser resumido;
 
     - Cada arquivo markdown (*.md) da FONTE deve segui a seguinte estrutura padrão:
 
