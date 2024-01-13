@@ -432,7 +432,13 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 
 ## Regras para cada Repositório ou Subrepositório
 
-1. No arquivo **README.md** de cada **REPOSITÓRIO**, logo no início e antes do seu título, deve constar os ícones e links abaixo:
+1. Local para Armazenamento dos arquivos PDFs
+    - Conforme definido na **Gestão do Conhecimento**, cada repositório possui uma ou mais fontes (livros, apostilas, cursos, vídeos, normas, etc.). Cada fonte, por sua vez, possui um ou mais **partes** que podem ser capítulos, unidades, etc. Cada parte terá um arquivo PDF correspondente que poderá ser baixado separadamente. 
+    - Optou-se por não colocar esses arquivos PDFs nos repositório do GITHUB, uma vez que ele tem um tamanho consideravelmente alto o que acabaria inviabilizando a manutenção de muitos repositórios na gestão do conhecimento facilmente em um futuro próximo (muitas partes/capítulos) de muitas fontes de muitos subrepositórios.
+    - Optou-se, ainda, por armazenar esses arquivos em PDF no meu OneDrive em uma estrutura de pastas e arquivos localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>NOME-DO-REPOSITÓRIO</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
+    - Por exemplo, os arquivos PDFs de um repositório "**INTRODUÇÃO AO ESTUDO DO DIREITO**" ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
+
+2. No arquivo **README.md** de cada **REPOSITÓRIO**, logo no início e antes do seu título, deve constar os ícones e links abaixo:
 
 <table align="right" border="0">
   <tr>
@@ -444,6 +450,29 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"></a><br>Baixar em PDF
+    </td>
+  </tr>
+</table><br><br><br><br><br><br><br>
+
+3. Navegação nos arquivos em cada repositório:
+    - Em todos os arquivos markdown (*.md) deste repositório, serão disponibilizados os ícones abaixo, no ínício e canto superior direito de cada arquivo, para uma navegação básica para **página inicial da fonte** e para **página inicial da minha gestão do conhecimento**. Após a conclusão da redação de cada arquivo deste repositório, o ícone **Baixar em PDF** apontará para o arquivo PDF que será gerado possibilitando obter o conteúdo também no formato PDF.
+
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
     </td>
   </tr>
 </table><br><br><br><br><br>
