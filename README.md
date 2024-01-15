@@ -254,23 +254,25 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
-#### Processos de Trabalho Regulamentares
+#### Macroprocessos de Trabalho Regulamentares
 
 |#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
 |:---|:---|:---|:---|
-|1|Atribuições<br>regulamentares<br>da SEINF|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
-|2|Atribuições<br>regulamentares<br>da SEINF|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
-|3|Atribuições<br>regulamentares<br>da SEINF|[Manter os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
-|4|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
-|5|Atribuições<br>regulamentares<br>da SEINF|[Gerenciar a continuidade dos serviços de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-continuidade-servicos-tic#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
-|6|Atribuições<br>Regulamentares<br>da SEINF|Gestão de Segurança da Informação|-|
-|7|Atribuições<br>Regulamentares<br>da SEINF|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
-|8|Atribuições<br>Regulamentares<br>da SEINF|Eleições Suplementares|-|
-|9|Atribuições<br>Regulamentares<br>da SEINF|Eleições|-|
+|1|Comunicação de Dados|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
+|2|Comunicação de Dados|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
+|3|Ativos de Infraestrutura|[Manter os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
+|4|Ativos de Infraestrutura|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
+|5|Continuidade de<br>Serviços de TIC|[Gerenciar a continuidade dos serviços de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-continuidade-servicos-tic#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
 
-#### Macroprocessos de Trabalho: Processos de Trabalho Administrativos
+#### Macroprocessos de Trabalho Decorrentes do Regulamentares
 
-Acesse o repositório [Processo de Trabalho Administrativos](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme).
+|#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
+|:---|:---|:---|:---|
+|1|Apoio Administrativo|[Processo de Trabalho Administrativos](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
+|2|Segurança da Informação|Gestão de Segurança da Informação|-|
+|3|Gestão de Mudanças|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
+|4|Eleições|Eleições Suplementares|-|
+|5|Eleições|Eleições|-|
 
 ### Concursos Públicos e Certificações
 
@@ -379,7 +381,6 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 <table width="350px">
 <tr>
 <td align="center">
- 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">A <b>Gestão do Conhecimento</b></span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dnlclaudino/gestao-do-conhecimento" property="cc:attributionName" rel="cc:attributionURL">Daniel Claudino</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
 </td>
 </tr>
