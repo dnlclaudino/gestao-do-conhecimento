@@ -53,14 +53,14 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 |3|Organizar meus conhecimentos pessoais e profissionais mais relevantes|
 |4|Demonstrar minhas habilidades de gestão do conhecimento e gestão de minhas competências|
 |5|Demonstrar atitudes que geram valores organizacionais, profissionais e sociais|
-|6|Identificar e explicitar as competências organizacionais, individuais e gerenciais adquiridas com minha gestão do conhecimento|
+|6|Identificar e explicitar as competências organizacionais, acadêmicas, técnicas, gerenciais e individuais adquiridas com minha gestão do conhecimento|
 |7|Contribuir no desenvolvimento de pessoas e organizações|
 
-## "Objetivos"
+## Objetivos
 
 |# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
 |:---:|:---|:---|
-|1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado|
+|1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado em fontes|
 |2|#6|Desenvolver texto apresentando a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
 |3|#1,#2,#3,#5 e #7|Desenvolver apresentação (Marp/Slide.dev/PPTXs) para facilitar a comunicação e compreensão desta gestão do conhecimento.|
 |4|(...)|(...)|
@@ -359,7 +359,17 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
 2. Verificar se já existe um repositório (Github) para o resumo
     - Caso não exista, criar um subrepositório no Github;
     - Mantenha o padrão da gestão do conhecimento, incluindo seção "**Versão da Política de Gestão do Conhecimento**" e texto-padrão: "A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é v0.0.1. As [regras para realização de commits](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github) estão disponíveis em Regras para commits no Github.";
-    - Incluir seção "**Relação das Competências Desenvolvidas**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
+    - Incluir seção "**Competências Relacionadas com Este Repositório**", seguindo as orientações contidas na minha Gestão por Competências, na seção [Descrição das Competências](https://github.com/dnlclaudino/gestao-de-competencias/blob/master/README.md#descri%C3%A7%C3%A3o-das-compet%C3%AAncias);
+      - Incluir texto:"-  O estudo de todas as fontes desse repositório:"
+       - Incluir texto:"  - Poderão possibilitar o desenvolvimento de competências:"
+       - Incluir texto:"  - Organizacionais (CPT-O-);"
+       - Incluir texto:"  - Acadêmicas (CPT-A-);"
+       - Incluir texto:"  - Técnicas (CPT-T-);"
+       - Incluir texto:"  - Gerenciais (CPT-G-); e/ou"
+       - Incluir texto:"  - Individuais (CPT-I-)"
+      - Incluir texto:"- Desenvolveram efetivamente as seguintes competências organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais:"
+      - Incluir **uma subseção** para cada competência
+        - Incluir tabela (veja template do repositório) para competência da subseção criada.
     - Incluir seção "**Navegação nos arquivos deste repositório**"
       - Incluir texto: "Este repositório segue as regras estabelecidas na **Gestão do conhecimento** na seção [Regras para cada Repositório ou Subrepositório](https://github.com/dnlclaudino/gestao-do-conhecimento?tab=readme-ov-file#regras-para-cada-reposit%C3%B3rio-ou-subreposit%C3%B3rio)"
       - Incluir texto conforme o repositório: "Os arquivos PDFs do atual repositório ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**"."
