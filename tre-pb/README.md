@@ -1,4 +1,4 @@
-# Seção de Infraestrutura e Redes
+# Seção de Infraestrutura de Redes (SEINF)
 
 <table align="right" border="0">
   <tr>
