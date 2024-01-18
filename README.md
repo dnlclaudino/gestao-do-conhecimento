@@ -254,35 +254,15 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
-#### Macroprocessos de Trabalho Regulamentares
+- Para acessar a gestão do conhecimento relacionado ao trabalho, acesse a fonte [TRE-PB/SEINF](./tre-pb/README.md) deste repositório.
 
-|#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
-|:---|:---|:---|:---|
-|1|Comunicação de Dados|Gerenciar a rede de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso I)|-|
-|2|Comunicação de Dados|Gerenciar serviços de comunicação de dados<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso II)|-|
-|3|Ativos de Infraestrutura|[Manter os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso III)|-|
-|4|Ativos de Infraestrutura|[Gerenciar os ativos de infraestrutura de TIC](https://github.com/dnlclaudino/tre-pb-seinf-manter-e-gerenciar-ativos-de-infraestrutura/tree/master#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso IV)|-|
-|5|Continuidade de<br>Serviços de TIC|[Gerenciar a continuidade dos serviços de TIC](https://github.com/dnlclaudino/tre-pb-seinf-gerenciar-continuidade-servicos-tic#readme)<br>(Resolução TRE-PB nº 14/2019, Art. 89, inciso V)|-|
+## Imagens/Ícones Utilizados
 
-#### Macroprocessos de Trabalho Decorrentes do Regulamentares
-
-|#|Área|Subárea<br>(Repositórios)|Anotações / Observações|
-|:---|:---|:---|:---|
-|1|Apoio Administrativo|[Processo de Trabalho Administrativos](https://github.com/dnlclaudino/tre-pb-seinf-proc-trab-adm#readme)|-|
-|2|Segurança da Informação|Gestão de Segurança da Informação|-|
-|3|Gestão de Mudanças|Gestão da Implantação<br> de Novo Sistema,<br>Solução ou Serviço|-|
-|4|Eleições|Eleições Suplementares|-|
-|5|Eleições|Eleições|-|
-
-### Concursos Públicos e Certificações
-
-|Ano|Concurso|Cargo|Tema|Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|:---|:---|
-|2025|TRIBUNAL REGIONAL ELEITORAL-PB|Analista Judiciário: Analista de Suporte|Conhecimentos Básicos:<br><br>Conhecimentos Específicos:|&nbsp;&nbsp;- Português<br>&nbsp;&nbsp;- Noções de Direito Constitucional<br>&nbsp;&nbsp;- Noções de Direito Eleitoral<br>&nbsp;&nbsp;- Noções de Direito Administrativo<br>&nbsp;&nbsp;- Normas Aplicáveis aos Servidores Públicos Federais<br>&nbsp;&nbsp;- Inglês Técnico<br><br>Fundamentos da Computação<br>&nbsp;&nbsp;-Engenharia de Software<br>&nbsp;&nbsp;-Gerência de Projetos de Software<br>&nbsp;&nbsp;-Redes de Computadores<br>&nbsp;&nbsp;-Banco de Dados<br>&nbsp;&nbsp;-Linguagens de Programação / Formatação|
-
-## Ícones Utilizados
-
-Serão utilizados os ícones do [repositório público imagens](https://github.com/dnlclaudino/imagens) em todo o material produzido nesta **gestão do conhecimento**:
+- Consulte [repositório público imagens](https://github.com/dnlclaudino/imagens):
+  - [História](https://github.com/dnlclaudino/historia/blob/master/imagens/referencias-bibliograficas.md)
+  - [Gestão do Conhecimento](https://github.com/dnlclaudino/imagens/tree/master)
+  - [Pessoas](https://github.com/dnlclaudino/imagens/tree/master/pessoas)
+  - [Obras de Arte](https://github.com/dnlclaudino/imagens/tree/master/obras-de-arte)
 
 ## Recursos Adicionais
 
