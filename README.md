@@ -270,6 +270,8 @@ São recursos adicionais utilizados nos resumos
 
 |**Recurso**|**Descrição**|
 |:---:|:---|
+|<br>**VS Code**|Editar aquivos markdown dos repositórios, fontes, capítulos, partes, etc.|
+|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code)|
 |<br>**Geogebra**|Ferramenta matemática para geometria e algebra|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
@@ -278,6 +280,10 @@ São recursos adicionais utilizados nos resumos
 |<br>**Mermaid**|Recurso para criar diagramas usando Markdown|
 |<br>**Power Point**|Apresentações elaboradas com o software **Power Point** da Microsoft|
 |<br>**Mesa Digitalizadora**<br>**One by Wacom**|Desenhos e anotações em formato PNG construídas à mão livre, feitas com a mesa digitalizadora da Wacom.|
+
+### Extensões do VS Code
+
+![](./gestao-do-conhecimento/gestao-do-conhecimento-vscode-extensoes-habilitadas-necessarias.png)
 
 ## A Hierarquia dos Repositórios
 
