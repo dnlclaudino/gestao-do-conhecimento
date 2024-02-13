@@ -432,7 +432,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
@@ -449,12 +449,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -500,12 +500,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -529,7 +529,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
