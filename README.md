@@ -38,7 +38,7 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
     <b>Daniel Claudino<br>( Página Pessoal )</a></b></td>
   <td align="center">
     <a href="https://github.com/dnlclaudino/curriculum-vitae#readme">
-    <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/dossie.png?raw=true" heigh="60" width="60"><br>Curriculum Vitae</a>
+    <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-dossie.png?raw=true" heigh="60" width="60"><br>Curriculum Vitae</a>
   </td>
 
 </tr>
