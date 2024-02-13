@@ -287,6 +287,7 @@ São recursos adicionais utilizados nos resumos
 |:---:|:---|
 |<br>**VS Code**|Editar aquivos markdown dos repositórios, fontes, capítulos, partes, etc.|
 |<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code)|
+|<br>**Emmets do VS Code**| Comandos para aumento da produtividade na redação de documentos Markdown no VS Code. Consulte [Emmet CheatSheets](https://docs.emmet.io/cheat-sheet/) para mais detalhes.|
 |<br>**Geogebra**|Ferramenta matemática para geometria e algebra|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
