@@ -289,7 +289,8 @@ São recursos adicionais utilizados nos resumos
 |<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code)|
 |<br>**Emmets do VS Code**| Comandos para aumento da produtividade na redação de documentos Markdown no VS Code. Consulte [Emmet CheatSheets](https://docs.emmet.io/cheat-sheet/) para mais detalhes.|
 |<br>**Emoji Copy**| Contém uma relaãod os caracteres UNICODE utilizado como EMOJIs por todo o repositório. Para saber mais, consulte [EmojiCopy](https://emojicopy.com/)|
-|<br>**Geogebra**|Ferramenta matemática para geometria e algebra|
+|**Geogebra**|Ferramenta matemática para geometria e algebra|
+|**Excalidraw**|Ferramenta para desenhar online. As imagens criadas podem ser baixadas em formato PNG. Para saber mais, consulte [Excalidraw](https://excalidraw.com/)|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
