@@ -286,7 +286,7 @@ São recursos adicionais utilizados nos resumos
 |**Recurso**|**Descrição**|
 |:---:|:---|
 |<br>**VS Code**|Editar aquivos markdown dos repositórios, fontes, capítulos, partes, etc.|
-|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code)|
+|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code). Incluir também as seguintes extensões: GitHub Pull Requests/|
 |<br>**Emmets do VS Code**| Comandos para aumento da produtividade na redação de documentos Markdown no VS Code. Consulte [Emmet CheatSheets](https://docs.emmet.io/cheat-sheet/) para mais detalhes.|
 |<br>**Emoji Copy**| Contém uma relaãod os caracteres UNICODE utilizado como EMOJIs por todo o repositório. Para saber mais, consulte [EmojiCopy](https://emojicopy.com/)|
 |**Geogebra**|Ferramenta matemática para geometria e algebra|
