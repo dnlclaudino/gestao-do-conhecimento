@@ -259,13 +259,16 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
 
-### Ciências da Saúde
+<details>
+<sumary>Ciências da Saúde</sumary>
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS DA SAÚDE|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
+
+</details>
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
