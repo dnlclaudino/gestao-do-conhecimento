@@ -226,7 +226,7 @@ Os repositório relacionados com o Direito, foram separados a parte para facilit
 
 ### Bacharelado em Direito
 
-Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme), eles foram agrupados nesse local específico.
+Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnlclaudino/bacharelado-em-direito#), eles foram agrupados nesse local específico.
 
 ### Ciências Formais
 
