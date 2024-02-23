@@ -10,7 +10,7 @@
 
 ## As quatro etapas das Sprints do Scrum
 
-![](https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true)
+![](https://github.com/dnlclaudino/imagens/blob/master/figuras-metodologias/scrum/scrum-sprint-etapas.png?raw=true)
 
 - As sprints seguem um planejamento que permite dividi-las em quatro tipos:
 
