@@ -4,13 +4,13 @@
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <!--
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     -->
@@ -38,9 +38,8 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
     <b>Daniel Claudino<br>( Página Pessoal )</a></b></td>
   <td align="center">
     <a href="https://github.com/dnlclaudino/curriculum-vitae#readme">
-    <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/dossie.png?raw=true" heigh="60" width="60"><br>Curriculum Vitae</a>
+    <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-dossie.png?raw=true" heigh="60" width="60"><br>Curriculum Vitae</a>
   </td>
-
 </tr>
 </table>
   
@@ -69,34 +68,50 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
 
 ## Trilha de Aprendizagem
 
+Minha gestão do conhecimento foi pensada para funcionar da seguinte forma:
+
 ### Quando a Fonte é ESCRITA
 
 ```mermaid
 graph LR;
-    INICIO(("Novo<br>Material"))-->A;
-    A[Leitura]-->B[Marcação e<br>Anotação na<br>Fonte Escrita];
-    B-->BB["Criar Nova<br>Fonte"]-- Em fonte do<br>repositório -->C[Fazer Resumo];
-    C-->D[Resenha];
-    D--Commits<br>Reiterados-->C;
-    D-->A;
-    D-->E[Apresentação em<br>Marp/Slide.dev];
-    E-->A;
-    E-->FIM(("Conclusão"))
+    INICIO(("Novo<br>Material"))-->LEITURA;
+    LEITURA[Leitura]-->B[Marcação e<br>Anotação na<br>Fonte Escrita];
+    B-->BB["Criar Nova<br>Fonte no<br>repositório"]-->FR[Fazer Resumo];
+    B-->FR;
+    FR-->REV1[Revisão #1];
+    REV1-->RESENHA[Resenha];
+    REV1-->LEITURA;
+    RESENHA-->LEITURA;
+    RESENHA-->FMM[Fazer Mapas<br>Mentais];
+    RESENHA-->FA[Fazer Apresentações<br>Marp/Sli.dev];
+    FMM-->REV2[Revisão #2];
+    FA-->REV2;
+    REV2-->LEITURA;
+    REV2-->FIM(("Conclusão"))
 ```
+
+- **Observação**: A **revisão** e a **resenha**, normalmente ocorrem no mesmo arquivo.
 
 ### Quando a Fonte NÃO É ESCRITA
 
+
 ```mermaid
 graph LR;
-    INICIO(("Novo<br>Material"))-->A;
-    A[Assistir]-->BB["Criar Nova<br>Fonte"]-- Em fonte do<br>repositório -->C[Fazer<br>Resumo];
-    C-->D[Resenha];
-    D--Commits<br>Reiterados-->C
-    D-->A
-    D-->E[Apresentação em<br>Marp/Slide.dev];
-    E-->A
-    E-->FIM(("Conclusão"))
+    INICIO(("Novo<br>Material"))-->ASSISTIR;
+    ASSISTIR[Assistir / Ouvir]-->CNV["Criar Nova<br>Fonte no<br>repositório"]-->FR[Fazer Resumo];
+    ASSISTIR-->FR;
+    FR-->REV1[Revisão #1];
+    REV1-->RESENHA[Resenha];
+    REV1-->ASSISTIR;
+    RESENHA-->ASSISTIR;
+    RESENHA-->FMM[Fazer Mapas<br>Mentais];
+    RESENHA-->FA[Fazer Apresentações<br>Marp/Sli.dev];
+    FMM-->REV2[Revisão #2];
+    FA-->REV2;
+    REV2-->ASSISTIR;
+    REV2-->FIM(("Conclusão"))
 ```
+- **Observação**: A **revisão** e a **resenha**, normalmente ocorrem no mesmo arquivo.
 
 ## Fontes deste Repositório
 
@@ -211,7 +226,7 @@ Os repositório relacionados com o Direito, foram separados a parte para facilit
 
 ### Bacharelado em Direito
 
-Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnclaudino/bacharelado-em-direito#readme), eles foram agrupados nesse local específico.
+Em razão da quantidade e complexidade de subrepositórios necessários para organizar todo o material relacionado com o curso de [Bacharelado em Direito](https://github.com/dnlclaudino/bacharelado-em-direito#), eles foram agrupados nesse local específico.
 
 ### Ciências Formais
 
@@ -244,13 +259,16 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
 |CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
 
-### Ciências da Saúde
+<details>
+<sumary>Ciências da Saúde</sumary>
 
 |Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
 |:---|:---|:---|:---|:---|
 |CIÊNCIAS DA SAÚDE|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
 |CIÊNCIAS DA SAÚDE|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
+
+</details>
 
 ### Gestão dos Conhecimentos Relacionados ao Trabalho
 
@@ -271,8 +289,12 @@ São recursos adicionais utilizados nos resumos
 |**Recurso**|**Descrição**|
 |:---:|:---|
 |<br>**VS Code**|Editar aquivos markdown dos repositórios, fontes, capítulos, partes, etc.|
-|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code)|
-|<br>**Geogebra**|Ferramenta matemática para geometria e algebra|
+|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code). Incluir também as seguintes extensões: GitHub Pull Requests|
+|**PlantUML**|Extensão do VS Code que permite criar diagramas UML utilizando linhas de código diretamente na IDE. Para exemplos, visite: https://real-world-plantuml.com/|
+|<br>**Emmets do VS Code**| Comandos para aumento da produtividade na redação de documentos Markdown no VS Code. Consulte [Emmet CheatSheets](https://docs.emmet.io/cheat-sheet/) para mais detalhes.|
+|<br>**Emoji Copy**| Contém uma relaãod os caracteres UNICODE utilizado como EMOJIs por todo o repositório. Para saber mais, consulte [EmojiCopy](https://emojicopy.com/)|
+|**Geogebra**|Ferramenta matemática para geometria e algebra|
+|**Excalidraw**|Ferramenta para desenhar online. As imagens criadas podem ser baixadas em formato PNG. Para saber mais, consulte [Excalidraw](https://excalidraw.com/)|
 |<br>**Draw.io**|Fluxogramas e esquemas|
 |<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
 |<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
@@ -424,15 +446,15 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
     - Conforme definido na **Gestão do Conhecimento**, cada repositório possui uma ou mais fontes (livros, apostilas, cursos, vídeos, normas, etc.). Cada fonte, por sua vez, possui um ou mais **partes** que podem ser capítulos, unidades, etc. Cada parte terá um arquivo PDF correspondente que poderá ser baixado separadamente. 
     - Optou-se por não colocar esses arquivos PDFs nos repositório do GITHUB, uma vez que ele tem um tamanho consideravelmente alto o que acabaria inviabilizando a manutenção de muitos repositórios na gestão do conhecimento facilmente em um futuro próximo (muitas partes/capítulos) de muitas fontes de muitos subrepositórios.
     - Optou-se, ainda, por armazenar esses arquivos em PDF no meu OneDrive em uma estrutura de pastas e arquivos localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>NOME-DO-REPOSITÓRIO</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
-    - Por exemplo, os arquivos PDFs de um repositório "**INTRODUÇÃO AO ESTUDO DO DIREITO**" ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
+      - Por exemplo, os arquivos PDFs de um repositório "**INTRODUÇÃO AO ESTUDO DO DIREITO**" ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
 
-2. No arquivo **README.md** de cada **REPOSITÓRIO**, logo no início e antes do seu título, deve constar os ícones e links abaixo:
+2. No arquivo **README.md** de cada **REPOSITÓRIO**, logo no início e antes do seu título, devem constar os ícones e links abaixo:
 
 <table align="right" border="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
@@ -449,12 +471,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -500,12 +522,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -524,12 +546,12 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito/tree/master/livro-NADER-2016-introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
@@ -554,7 +576,7 @@ Deve-se usar o Github e a conta “dnlclaudino@gmail.com” para criar e manter 
         - Uma descrição breve do capítulo;
       - Exemplo.:
          - capitulo-02-conhecendo-o-gerenciamento-de-Servicos.MD
-      - Caso o objeto do resumo seja dividido em <ESPECIFICAR A FORMA DE DIVISÃO>
+      - Caso o objeto do resumo seja dividido em < ESPECIFICAR A FORMA DE DIVISÃO >
 
 ## Regras para nomenclatura de imagens
 
