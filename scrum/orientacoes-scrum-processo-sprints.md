@@ -8,7 +8,6 @@
 - As Sprints do Scrum são um conceito principal de divisão do projeto em 4 fases.
 - Dividir o projeto nessas etapas é fundamental para que ele se adapte às diferentes necessidades do cliente e gere entregas rápidas com foco total nas exigências dos clientes.
 
-
 ## As quatro etapas das Sprints do Scrum
 
 ![](https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true)
