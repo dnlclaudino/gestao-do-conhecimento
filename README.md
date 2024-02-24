@@ -94,7 +94,6 @@ graph LR;
 
 ### Quando a Fonte NÃO É ESCRITA
 
-
 ```mermaid
 graph LR;
     INICIO(("Novo<br>Material"))-->ASSISTIR;
@@ -284,28 +283,7 @@ Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo
 
 ## Recursos Adicionais
 
-São recursos adicionais utilizados nos resumos
-
-|**Recurso**|**Descrição**|
-|:---:|:---|
-|<br>**VS Code**|Editar aquivos markdown dos repositórios, fontes, capítulos, partes, etc.|
-|<br>**Extensões do VS Code**|Veja seção [extensões do VS CODE](#extensoes-do-vs-code). Incluir também as seguintes extensões: GitHub Pull Requests|
-|**PlantUML**|Extensão do VS Code que permite criar diagramas UML utilizando linhas de código diretamente na IDE. Para exemplos, visite: https://real-world-plantuml.com/|
-|<br>**Emmets do VS Code**| Comandos para aumento da produtividade na redação de documentos Markdown no VS Code. Consulte [Emmet CheatSheets](https://docs.emmet.io/cheat-sheet/) para mais detalhes.|
-|<br>**Emoji Copy**| Contém uma relaãod os caracteres UNICODE utilizado como EMOJIs por todo o repositório. Para saber mais, consulte [EmojiCopy](https://emojicopy.com/)|
-|**Geogebra**|Ferramenta matemática para geometria e algebra|
-|**Excalidraw**|Ferramenta para desenhar online. As imagens criadas podem ser baixadas em formato PNG. Para saber mais, consulte [Excalidraw](https://excalidraw.com/)|
-|<br>**Draw.io**|Fluxogramas e esquemas|
-|<br>**BPMN.io**|Mapeamento de processos usando notação BPMN|
-|<br>**Sli.dev**|Existem inúmeras ferramentas para criar slides cheias de recurso, de uso geral, como Microsoft PowerPoint e Apple Keynote. Elas funcionam muito bem para fazer slides legais com animações, gráficos, e muitas outras coisas, além de serem bem intuitivas e fáceis de aprender. Então por que gastar tempo fazendo o Slidev? O Slidev visa fornecer a flexibilidade e a interatividade para desenvolvedores fazerem suas apresentações ainda mais interessantes, expressivas, e atraentes usando ferramentas e tecnologias das quais já estão familiarizados.|
-|<br>**MARP.app**|Outra ferramenta de elaboração de slides que permite versionamento e a separação entre a camada de conteúdo e a camada de apresentação|
-|<br>**Mermaid**|Recurso para criar diagramas usando Markdown|
-|<br>**Power Point**|Apresentações elaboradas com o software **Power Point** da Microsoft|
-|<br>**Mesa Digitalizadora**<br>**One by Wacom**|Desenhos e anotações em formato PNG construídas à mão livre, feitas com a mesa digitalizadora da Wacom.|
-
-### Extensões do VS Code
-
-![](./gestao-do-conhecimento/gestao-do-conhecimento-vscode-extensoes-habilitadas-necessarias.png)
+Para esta **gestão do Conhecimento**, em seus repositórios e fontes, sâo utilizados os seguintes [recursos adicionais](./recursos-adicionais.md).
 
 ## A Hierarquia dos Repositórios
 
