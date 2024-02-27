@@ -53,3 +53,4 @@ Para esta **gestão do Conhecimento**, em seus repositórios e fontes, sâo util
 |PlantUML|-|
 |Snippet|Extensão do Autor Devon Ray|
 |GitHub Pull Requests|-|
+|[GitHub Projects](https://github.com/dnlclaudino?tab=projects)|- Projeto Gestão do Conhecimento<br>- Bacharelado em Direito & Concursos<br>- Apoio Administrativo à COINF/SEINF|
