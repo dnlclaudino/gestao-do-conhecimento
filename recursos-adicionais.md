@@ -37,7 +37,7 @@ Para esta **gestão do Conhecimento**, em seus repositórios e fontes, sâo util
 |**Extensão do VS Code**|**Descrição**|
 |:---|:---|
 |:emojisense:|-|
-|Auto Markdown TOC| - Autor: Hunter Tran <br> - Versão v3.0.13 <br>- 33.883 users aprox. <br> - Usar "<!-- TOC ignore:true -->" na seção que não será colocada no TOC <br> - Settings.json:<br><br> <br> "markdown-toc.updateOnSave": false,<br> "markdown-toc.withLinks": false,<br> "markdown-toc.detectAndAutoSetSection": false<br>|
+|Auto Markdown TOC| - Autor: Hunter Tran <br> - Versão v3.0.13 <br>- 33.883 users aprox. <br> - Usar "< ! -- TOC ignore:true -- >" na seção que não será colocada no TOC <br> - Settings.json:<br><br> <br> "markdown-toc.updateOnSave": false,<br> "markdown-toc.withLinks": false,<br> "markdown-toc.detectAndAutoSetSection": false<br>|
 |BPMN Editor|-|
 |GistPad|-|
 |Markdown All in One|-|
