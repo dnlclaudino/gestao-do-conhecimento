@@ -182,7 +182,7 @@ Os repositório relacionados com o Direito, foram separados a parte para facilit
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Economia|Economia|-|-|
+|CIÊNCIAS HUMANAS E SOCIAIS|Economia|[Economia](https://github.com/dnlclaudino/economia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia#readme)|-|-|
 |CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
