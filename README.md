@@ -24,9 +24,9 @@
 
 Este documento estabelece diretrizes para minha gestão do conhecimento com vistas ao meu desenvolvimento pessoal e profissional.
 
-|Contribuição|Data|Versão|Observações &#47; Notas |
-|:---:|:---:|:---:|:---|
-|Daniel Claudino|15/06/2023|v0.0.1|Versão Inicial do documento|
+|  Contribuição   |    Data    | Versão | Observações &#47; Notas     |
+| :-------------: | :--------: | :----: | :-------------------------- |
+| Daniel Claudino | 15/06/2023 | v0.0.1 | Versão Inicial do documento |
 
 ## Sobre mim
 
@@ -45,24 +45,24 @@ Este documento estabelece diretrizes para minha gestão do conhecimento com vist
   
 ## Necessidades
 
-|#|Necessidade|
-|:---:|:---|
-|1|Tornar meu conhecimento explicitamente registrado|
-|2|Otimizar a recuperação do meu conhecimento|
-|3|Organizar meus conhecimentos pessoais e profissionais mais relevantes|
-|4|Demonstrar minhas habilidades de gestão do conhecimento e gestão de minhas competências|
-|5|Demonstrar atitudes que geram valores organizacionais, profissionais e sociais|
-|6|Identificar e explicitar as competências organizacionais, acadêmicas, técnicas, gerenciais e individuais adquiridas com minha gestão do conhecimento|
-|7|Contribuir no desenvolvimento de pessoas e organizações|
+|  #  | Necessidade                                                                                                                                          |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1  | Tornar meu conhecimento explicitamente registrado                                                                                                    |
+|  2  | Otimizar a recuperação do meu conhecimento                                                                                                           |
+|  3  | Organizar meus conhecimentos pessoais e profissionais mais relevantes                                                                                |
+|  4  | Demonstrar minhas habilidades de gestão do conhecimento e gestão de minhas competências                                                              |
+|  5  | Demonstrar atitudes que geram valores organizacionais, profissionais e sociais                                                                       |
+|  6  | Identificar e explicitar as competências organizacionais, acadêmicas, técnicas, gerenciais e individuais adquiridas com minha gestão do conhecimento |
+|  7  | Contribuir no desenvolvimento de pessoas e organizações                                                                                              |
 
 ## Objetivos
 
-|# Objetivo |Relacionado a Necessidade # | Descrição do Objetivo|
-|:---:|:---|:---|
-|1|#1, #2 e #3|Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado em fontes|
-|2|#6|Desenvolver texto apresentando a relação entre a gestão do conhecimento e a gestão de competências adquiridas|
-|3|#1,#2,#3,#5 e #7|Desenvolver apresentação (Marp/Slide.dev/PPTXs) para facilitar a comunicação e compreensão desta gestão do conhecimento.|
-|4|(...)|(...)|
+| # Objetivo | Relacionado a Necessidade # | Descrição do Objetivo                                                                                                                                           |
+| :--------: | :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1      | #1, #2 e #3                 | Criar repositórios para cada tema, assunto, disciplina, tecnologia, metodologia, método ou boa prática cujo conhecimento será organizado e gerenciado em fontes |
+|     2      | #6                          | Desenvolver texto apresentando a relação entre a gestão do conhecimento e a gestão de competências adquiridas                                                   |
+|     3      | #1,#2,#3,#5 e #7            | Desenvolver apresentação (Marp/Slide.dev/PPTXs) para facilitar a comunicação e compreensão desta gestão do conhecimento.                                        |
+|     4      | (...)                       | (...)                                                                                                                                                           |
 
 - Mais **OBJETIVOS** serão formalmente apontados na medida em que os trabalhos de gestão do conhecimento forem avançando.
 
@@ -116,9 +116,9 @@ graph LR;
 
 Esse repositório foi construído com base no conhecimento adquirido principalmente das fontes relacionadas abaixo:
  
-| # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
-|:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Vídeo-Aulas da Disciplina<br>Fundamentos da Gestão<br>do Conhecimento<br>no YOUTUBE |**UNIVESP**<br>[Vídeo-Aulas: Fundamentos da Gestão<br>do Conhecimento](./aula-video-YOUTUBE-UNIVESP-2017-fundamentos-da-gestao-do-conhecimento/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Playlist das Aulas](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfJ3BzblnmWBeDApWMFevY) | - |
+|  #  |                                     Tipo Fonte                                      | Nome da Fonte                                                                                                                                             | Progresso |    Data    | Versão | Links                                                                                             | Anotações |
+| :-: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :--------: | :----: | :------------------------------------------------------------------------------------------------ | :-------- |
+|  1  | Vídeo-Aulas da Disciplina<br>Fundamentos da Gestão<br>do Conhecimento<br>no YOUTUBE | **UNIVESP**<br>[Vídeo-Aulas: Fundamentos da Gestão<br>do Conhecimento](./aula-video-YOUTUBE-UNIVESP-2017-fundamentos-da-gestao-do-conhecimento/README.md) |    0%     | Junho/2023 | v0.0.1 | 1. [Playlist das Aulas](https://www.youtube.com/playlist?list=PLxI8Can9yAHcfJ3BzblnmWBeDApWMFevY) | -         |
 
 ## Gestão de Competências
 
@@ -167,61 +167,61 @@ Também conhecido como ciências humanas, este conjunto de disciplinas se dedica
 
 Os repositório relacionados com o Direito, foram separados a parte para facilitar sua organização e localização.
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Auditoria|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Pessoas](https://github.com/dnlclaudino/gestao-de-pessoas)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Projetos<br>[Meus Projetos e Planos](https://github.com/dnlclaudino/programas-projetos-e-planos)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Gestão de Processos de Trabalho|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|Governança|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Gestão de Serviços de TI](https://github.com/dnlclaudino/gerenciamento-de-servicos-de-ti)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[História dos Produtos e das Organizações](https://github.com/dnlclaudino/historia-dos-produtos-e-das-organizacoes)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Logística](https://github.com/dnlclaudino/logistica)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Planejamento](https://github.com/dnlclaudino/planejamento)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Administração|[Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Contabilidade|[Contabilidade](https://github.com/dnlclaudino/contabilidade)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Economia|[Economia](https://github.com/dnlclaudino/economia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Filosofia|[Filosofia](https://github.com/dnlclaudino/filosofia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Geografia|[Geografia](https://github.com/dnlclaudino/geografia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|História|[História](https://github.com/dnlclaudino/historia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Psicologia|[Psicologia](https://github.com/dnlclaudino/psicologia#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Sociologia|[Sociologia](https://github.com/dnlclaudino/sociologia#readme)|-|-|
+| Ramo do Conhecimento       | Sub-ramo do Conhecimento | Repositório de Conhecimento                                                                                         | Descrição | Link |
+| :------------------------- | :----------------------- | :------------------------------------------------------------------------------------------------------------------ | :-------- | :--- |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | Auditoria                                                                                                           | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento)                                     | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Gestão de Pessoas](https://github.com/dnlclaudino/gestao-de-pessoas)                                               | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | Gestão de Projetos<br>[Meus Projetos e Planos](https://github.com/dnlclaudino/programas-projetos-e-planos)          | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | Gestão de Processos de Trabalho                                                                                     | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | Governança                                                                                                          | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Gestão de Serviços de TI](https://github.com/dnlclaudino/gerenciamento-de-servicos-de-ti)                          | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [História dos Produtos e das Organizações](https://github.com/dnlclaudino/historia-dos-produtos-e-das-organizacoes) | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Logística](https://github.com/dnlclaudino/logistica)                                                               | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Planejamento](https://github.com/dnlclaudino/planejamento)                                                         | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Plano de Negócio #1](https://github.com/dnlclaudino/plano-de-negocio-1)                                            | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Administração            | [Teoria Geral da Administração](https://github.com/dnlclaudino/teoria-geral-da-administracao)                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Contabilidade            | [Contabilidade](https://github.com/dnlclaudino/contabilidade)                                                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Economia                 | [Economia](https://github.com/dnlclaudino/economia#readme)                                                          | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Filosofia                | [Filosofia](https://github.com/dnlclaudino/filosofia#readme)                                                        | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Geografia                | [Geografia](https://github.com/dnlclaudino/geografia#readme)                                                        | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | História                 | [História](https://github.com/dnlclaudino/historia#readme)                                                          | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Psicologia               | [Psicologia](https://github.com/dnlclaudino/psicologia#readme)                                                      | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Sociologia               | [Sociologia](https://github.com/dnlclaudino/sociologia#readme)                                                      | -         | -    |
 
 #### Direito
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Ciência Política e Teoria Geral do Estado](https://github.com/dnlclaudino/ciencia-politica-e-tge#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Civil](https://github.com/dnlclaudino/direito-civil#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Constitucional](https://github.com/dnlclaudino/direito-constitucional#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Empresarial|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Humanos|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Direito Penal](https://github.com/dnlclaudino/direito-penal#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Direito Trabalhista|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Filosofia do Direito|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Hermenêutica Jurídica|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Introdução ao Estudo do Direito](https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|[Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Sociologia Jurídica|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Psicologia Jurídica|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Direito|Teoria Geral do Processo|-|-|
+| Ramo do Conhecimento       | Sub-ramo do Conhecimento | Repositório de Conhecimento                                                                               | Descrição | Link |
+| :------------------------- | :----------------------- | :-------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Ciência Política e Teoria Geral do Estado](https://github.com/dnlclaudino/ciencia-politica-e-tge#readme) | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Direito Administrativo](https://github.com/dnlclaudino/direito-administrativo)                           | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Direito Civil](https://github.com/dnlclaudino/direito-civil#readme)                                      | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Direito Constitucional](https://github.com/dnlclaudino/direito-constitucional#readme)                    | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Direito Empresarial                                                                                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Direito Humanos                                                                                           | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Direito Penal](https://github.com/dnlclaudino/direito-penal#readme)                                      | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Direito Trabalhista                                                                                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Filosofia do Direito                                                                                      | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Hermenêutica Jurídica                                                                                     | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Introdução ao Estudo do Direito](https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme)  | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | [Normas Jurídicas](https://github.com/dnlclaudino/normas-juridicas#readme)                                | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Sociologia Jurídica                                                                                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Psicologia Jurídica                                                                                       | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Direito                  | Teoria Geral do Processo                                                                                  | -         | -    |
 
 #### Outras Áreas de Humanas: Linguística
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica#readme)|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Linguística|[Literatura](https://github.com/dnlclaudino/literatura)|-|-|
+| Ramo do Conhecimento       | Sub-ramo do Conhecimento | Repositório de Conhecimento                                                                 | Descrição | Link |
+| :------------------------- | :----------------------- | :------------------------------------------------------------------------------------------ | :-------- | :--- |
+| CIÊNCIAS HUMANAS E SOCIAIS | Linguística              | [Português &#124; Redação &#124; Inglês](https://github.com/dnlclaudino/linguistica#readme) | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Linguística              | [Literatura](https://github.com/dnlclaudino/literatura)                                     | -         | -    |
 
 #### Outras Áreas de Humanas
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS HUMANAS E SOCIAIS|Metodologia Científica|[Metodologia Científica<br>e da Pesquisa]()|-|-|
-|CIÊNCIAS HUMANAS E SOCIAIS|Padronizações|[Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional)|-|-|
+| Ramo do Conhecimento       | Sub-ramo do Conhecimento | Repositório de Conhecimento                                                                                                      | Descrição | Link |
+| :------------------------- | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| CIÊNCIAS HUMANAS E SOCIAIS | Metodologia Científica   | [Metodologia Científica<br>e da Pesquisa]()                                                                                      | -         | -    |
+| CIÊNCIAS HUMANAS E SOCIAIS | Padronizações            | [Normas Nacionais e Internacionais ISOs/NBRs/RFCs](https://github.com/dnlclaudino/normas-de-padronizacao-nacional-internacional) | -         | -    |
 
 ### Bacharelado em Direito
 
@@ -231,41 +231,41 @@ Em razão da quantidade e complexidade de subrepositórios necessários para org
 
 Ao contrário das ciências naturais, as formais não se dedicam ao estudo da natureza, mas de objetos e sistemas puramente abstratos, mas que podem ser aplicados ao mundo real. Assim, seus objetos de estudo existem apenas no mundo da mente, e sua validade não deriva de experimentos, mas de axiomas, raciocínios e inferências. Exemplos deste tipo de ciência são: matemática , lógica , ciência da computação , etc.
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS FORMAIS|[Computação](./computacao.md)|- ( ... )|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Estatística](https://github.com/dnlclaudino/estatistica)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Cálculo Vetorial|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Ensino Fundamental](https://github.com/dnlclaudino/matematica-ensino-fundamental)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Ensino Médio](https://github.com/dnlclaudino/matematica-ensino-medio)|-|-|
-|CIÊNCIAS FORMAIS|Matemática|Geometria Analítica|-|-|
-|CIÊNCIAS FORMAIS|Matemática|[Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico)|-|-|
+| Ramo do Conhecimento | Sub-ramo do Conhecimento      | Repositório de Conhecimento                                                                        | Descrição | Link |
+| :------------------- | :---------------------------- | :------------------------------------------------------------------------------------------------- | :-------- | :--- |
+| CIÊNCIAS FORMAIS     | [Computação](./computacao.md) | - ( ... )                                                                                          | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | [Estatística](https://github.com/dnlclaudino/estatistica)                                          | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | Cálculo                                                                                            | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | Cálculo Vetorial                                                                                   | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | [Ensino Fundamental](https://github.com/dnlclaudino/matematica-ensino-fundamental)                 | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | [Ensino Médio](https://github.com/dnlclaudino/matematica-ensino-medio)                             | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | Geometria Analítica                                                                                | -         | -    |
+| CIÊNCIAS FORMAIS     | Matemática                    | [Raciocínio Lógico<br>e Matemático](https://github.com/dnlclaudino/raciocinio-logico-e-matematico) | -         | -    |
 
 ### Ciências Naturais e da Saúde
 
 Este é o nome dado a todas as disciplinas científicas que se dedicam ao estudo da natureza, utilizando o método científico para reproduzir experimentalmente (isto é, sob condições controladas) os fenômenos que lhes interessam. Também são conhecidas como ciências experimentais, ciências exatas ou ciências físico-naturais e são exemplos disso: biologia , física , química , astronomia , geologia , etc.
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 1](https://github.com/dnlclaudino/fisica-1)|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 2](https://github.com/dnlclaudino/fisica-2)|-|-|
-|CIÊNCIAS NATURAIS|Física<br>(Ensino Médio)|[Fisica 3](https://github.com/dnlclaudino/fisica-3)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 1](https://github.com/dnlclaudino/quimica-1)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 2](https://github.com/dnlclaudino/quimica-2)|-|-|
-|CIÊNCIAS NATURAIS|Química<br>(Ensino Médio)|[Química 3](https://github.com/dnlclaudino/quimica-3)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 1](https://github.com/dnlclaudino/biologia-1)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 2](https://github.com/dnlclaudino/biologia-2)|-|-|
-|CIÊNCIAS NATURAIS|Biologia<br>(Ensino Médio)|[Biologia 3](https://github.com/dnlclaudino/biologia-3)|-|-|
+| Ramo do Conhecimento | Sub-ramo do Conhecimento   | Repositório de Conhecimento                             | Descrição | Link |
+| :------------------- | :------------------------- | :------------------------------------------------------ | :-------- | :--- |
+| CIÊNCIAS NATURAIS    | Física<br>(Ensino Médio)   | [Fisica 1](https://github.com/dnlclaudino/fisica-1)     | -         | -    |
+| CIÊNCIAS NATURAIS    | Física<br>(Ensino Médio)   | [Fisica 2](https://github.com/dnlclaudino/fisica-2)     | -         | -    |
+| CIÊNCIAS NATURAIS    | Física<br>(Ensino Médio)   | [Fisica 3](https://github.com/dnlclaudino/fisica-3)     | -         | -    |
+| CIÊNCIAS NATURAIS    | Química<br>(Ensino Médio)  | [Química 1](https://github.com/dnlclaudino/quimica-1)   | -         | -    |
+| CIÊNCIAS NATURAIS    | Química<br>(Ensino Médio)  | [Química 2](https://github.com/dnlclaudino/quimica-2)   | -         | -    |
+| CIÊNCIAS NATURAIS    | Química<br>(Ensino Médio)  | [Química 3](https://github.com/dnlclaudino/quimica-3)   | -         | -    |
+| CIÊNCIAS NATURAIS    | Biologia<br>(Ensino Médio) | [Biologia 1](https://github.com/dnlclaudino/biologia-1) | -         | -    |
+| CIÊNCIAS NATURAIS    | Biologia<br>(Ensino Médio) | [Biologia 2](https://github.com/dnlclaudino/biologia-2) | -         | -    |
+| CIÊNCIAS NATURAIS    | Biologia<br>(Ensino Médio) | [Biologia 3](https://github.com/dnlclaudino/biologia-3) | -         | -    |
 
 <details>
 <sumary>Ciências da Saúde</sumary>
 
-|Ramo do Conhecimento|Sub-ramo do Conhecimento|Repositório de Conhecimento|Descrição|Link|
-|:---|:---|:---|:---|:---|
-|CIÊNCIAS DA SAÚDE|Medicina|[Anatomia](https://github.com/dnlclaudino/anatomia)|-|-|
-|CIÊNCIAS DA SAÚDE|Medicina|[Farmacologia](https://github.com/dnlclaudino/farmacologia)|-|-|
-|CIÊNCIAS DA SAÚDE|Medicina|[Fisiologia](https://github.com/dnlclaudino/fisiologia)|-|-|
+| Ramo do Conhecimento | Sub-ramo do Conhecimento | Repositório de Conhecimento                                 | Descrição | Link |
+| :------------------- | :----------------------- | :---------------------------------------------------------- | :-------- | :--- |
+| CIÊNCIAS DA SAÚDE    | Medicina                 | [Anatomia](https://github.com/dnlclaudino/anatomia)         | -         | -    |
+| CIÊNCIAS DA SAÚDE    | Medicina                 | [Farmacologia](https://github.com/dnlclaudino/farmacologia) | -         | -    |
+| CIÊNCIAS DA SAÚDE    | Medicina                 | [Fisiologia](https://github.com/dnlclaudino/fisiologia)     | -         | -    |
 
 </details>
 
